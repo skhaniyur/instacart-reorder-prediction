@@ -1,0 +1,1002 @@
+,order_id,user_id,eval_set,order_number,order_dow,order_hour_of_day,days_since_prior_order,product_id,add_to_cart_order,reordered,product_name,aisle_id,department_id,department,aisle
+0,2539329,1,prior,1,2,8,,196.0,1.0,0.0,Soda,77.0,7.0,beverages,soft drinks
+1,2539329,1,prior,1,2,8,,14084.0,2.0,0.0,Organic Unsweetened Vanilla Almond Milk,91.0,16.0,dairy eggs,soy lactosefree
+2,2539329,1,prior,1,2,8,,12427.0,3.0,0.0,Original Beef Jerky,23.0,19.0,snacks,popcorn jerky
+3,2539329,1,prior,1,2,8,,26088.0,4.0,0.0,Aged White Cheddar Popcorn,23.0,19.0,snacks,popcorn jerky
+4,2539329,1,prior,1,2,8,,26405.0,5.0,0.0,XL Pick-A-Size Paper Towel Rolls,54.0,17.0,household,paper goods
+5,2398795,1,prior,2,3,7,15.0,196.0,1.0,1.0,Soda,77.0,7.0,beverages,soft drinks
+6,2398795,1,prior,2,3,7,15.0,10258.0,2.0,0.0,Pistachios,117.0,19.0,snacks,nuts seeds dried fruit
+7,2398795,1,prior,2,3,7,15.0,12427.0,3.0,1.0,Original Beef Jerky,23.0,19.0,snacks,popcorn jerky
+8,2398795,1,prior,2,3,7,15.0,13176.0,4.0,0.0,Bag of Organic Bananas,24.0,4.0,produce,fresh fruits
+9,2398795,1,prior,2,3,7,15.0,26088.0,5.0,1.0,Aged White Cheddar Popcorn,23.0,19.0,snacks,popcorn jerky
+10,2398795,1,prior,2,3,7,15.0,13032.0,6.0,0.0,Cinnamon Toast Crunch,121.0,14.0,breakfast,cereal
+11,473747,1,prior,3,3,12,21.0,196.0,1.0,1.0,Soda,77.0,7.0,beverages,soft drinks
+12,473747,1,prior,3,3,12,21.0,12427.0,2.0,1.0,Original Beef Jerky,23.0,19.0,snacks,popcorn jerky
+13,473747,1,prior,3,3,12,21.0,10258.0,3.0,1.0,Pistachios,117.0,19.0,snacks,nuts seeds dried fruit
+14,473747,1,prior,3,3,12,21.0,25133.0,4.0,0.0,Organic String Cheese,21.0,16.0,dairy eggs,packaged cheese
+15,473747,1,prior,3,3,12,21.0,30450.0,5.0,0.0,Creamy Almond Butter,88.0,13.0,pantry,spreads
+16,2254736,1,prior,4,4,7,29.0,196.0,1.0,1.0,Soda,77.0,7.0,beverages,soft drinks
+17,2254736,1,prior,4,4,7,29.0,12427.0,2.0,1.0,Original Beef Jerky,23.0,19.0,snacks,popcorn jerky
+18,2254736,1,prior,4,4,7,29.0,10258.0,3.0,1.0,Pistachios,117.0,19.0,snacks,nuts seeds dried fruit
+19,2254736,1,prior,4,4,7,29.0,25133.0,4.0,1.0,Organic String Cheese,21.0,16.0,dairy eggs,packaged cheese
+20,2254736,1,prior,4,4,7,29.0,26405.0,5.0,1.0,XL Pick-A-Size Paper Towel Rolls,54.0,17.0,household,paper goods
+21,431534,1,prior,5,4,15,28.0,196.0,1.0,1.0,Soda,77.0,7.0,beverages,soft drinks
+22,431534,1,prior,5,4,15,28.0,12427.0,2.0,1.0,Original Beef Jerky,23.0,19.0,snacks,popcorn jerky
+23,431534,1,prior,5,4,15,28.0,10258.0,3.0,1.0,Pistachios,117.0,19.0,snacks,nuts seeds dried fruit
+24,431534,1,prior,5,4,15,28.0,25133.0,4.0,1.0,Organic String Cheese,21.0,16.0,dairy eggs,packaged cheese
+25,431534,1,prior,5,4,15,28.0,10326.0,5.0,0.0,Organic Fuji Apples,24.0,4.0,produce,fresh fruits
+26,431534,1,prior,5,4,15,28.0,17122.0,6.0,0.0,Honeycrisp Apples,24.0,4.0,produce,fresh fruits
+27,431534,1,prior,5,4,15,28.0,41787.0,7.0,0.0,Bartlett Pears,24.0,4.0,produce,fresh fruits
+28,431534,1,prior,5,4,15,28.0,13176.0,8.0,1.0,Bag of Organic Bananas,24.0,4.0,produce,fresh fruits
+29,3367565,1,prior,6,2,7,19.0,196.0,1.0,1.0,Soda,77.0,7.0,beverages,soft drinks
+30,3367565,1,prior,6,2,7,19.0,12427.0,2.0,1.0,Original Beef Jerky,23.0,19.0,snacks,popcorn jerky
+31,3367565,1,prior,6,2,7,19.0,10258.0,3.0,1.0,Pistachios,117.0,19.0,snacks,nuts seeds dried fruit
+32,3367565,1,prior,6,2,7,19.0,25133.0,4.0,1.0,Organic String Cheese,21.0,16.0,dairy eggs,packaged cheese
+33,550135,1,prior,7,1,9,20.0,196.0,1.0,1.0,Soda,77.0,7.0,beverages,soft drinks
+34,550135,1,prior,7,1,9,20.0,10258.0,2.0,1.0,Pistachios,117.0,19.0,snacks,nuts seeds dried fruit
+35,550135,1,prior,7,1,9,20.0,12427.0,3.0,1.0,Original Beef Jerky,23.0,19.0,snacks,popcorn jerky
+36,550135,1,prior,7,1,9,20.0,25133.0,4.0,1.0,Organic String Cheese,21.0,16.0,dairy eggs,packaged cheese
+37,550135,1,prior,7,1,9,20.0,13032.0,5.0,1.0,Cinnamon Toast Crunch,121.0,14.0,breakfast,cereal
+38,3108588,1,prior,8,1,14,14.0,12427.0,1.0,1.0,Original Beef Jerky,23.0,19.0,snacks,popcorn jerky
+39,3108588,1,prior,8,1,14,14.0,196.0,2.0,1.0,Soda,77.0,7.0,beverages,soft drinks
+40,3108588,1,prior,8,1,14,14.0,10258.0,3.0,1.0,Pistachios,117.0,19.0,snacks,nuts seeds dried fruit
+41,3108588,1,prior,8,1,14,14.0,25133.0,4.0,1.0,Organic String Cheese,21.0,16.0,dairy eggs,packaged cheese
+42,3108588,1,prior,8,1,14,14.0,46149.0,5.0,0.0,Zero Calorie Cola,77.0,7.0,beverages,soft drinks
+43,3108588,1,prior,8,1,14,14.0,49235.0,6.0,0.0,Organic Half & Half,53.0,16.0,dairy eggs,cream
+44,2295261,1,prior,9,1,16,0.0,49235.0,1.0,1.0,Organic Half & Half,53.0,16.0,dairy eggs,cream
+45,2295261,1,prior,9,1,16,0.0,46149.0,2.0,1.0,Zero Calorie Cola,77.0,7.0,beverages,soft drinks
+46,2295261,1,prior,9,1,16,0.0,25133.0,3.0,1.0,Organic String Cheese,21.0,16.0,dairy eggs,packaged cheese
+47,2295261,1,prior,9,1,16,0.0,196.0,4.0,1.0,Soda,77.0,7.0,beverages,soft drinks
+48,2295261,1,prior,9,1,16,0.0,10258.0,5.0,1.0,Pistachios,117.0,19.0,snacks,nuts seeds dried fruit
+49,2295261,1,prior,9,1,16,0.0,12427.0,6.0,1.0,Original Beef Jerky,23.0,19.0,snacks,popcorn jerky
+50,2550362,1,prior,10,4,8,30.0,196.0,1.0,1.0,Soda,77.0,7.0,beverages,soft drinks
+51,2550362,1,prior,10,4,8,30.0,46149.0,2.0,1.0,Zero Calorie Cola,77.0,7.0,beverages,soft drinks
+52,2550362,1,prior,10,4,8,30.0,39657.0,3.0,0.0,Milk Chocolate Almonds,45.0,19.0,snacks,candy chocolate
+53,2550362,1,prior,10,4,8,30.0,38928.0,4.0,0.0,0% Greek Strained Yogurt,120.0,16.0,dairy eggs,yogurt
+54,2550362,1,prior,10,4,8,30.0,25133.0,5.0,1.0,Organic String Cheese,21.0,16.0,dairy eggs,packaged cheese
+55,2550362,1,prior,10,4,8,30.0,10258.0,6.0,1.0,Pistachios,117.0,19.0,snacks,nuts seeds dried fruit
+56,2550362,1,prior,10,4,8,30.0,35951.0,7.0,0.0,Organic Unsweetened Almond Milk,91.0,16.0,dairy eggs,soy lactosefree
+57,2550362,1,prior,10,4,8,30.0,13032.0,8.0,1.0,Cinnamon Toast Crunch,121.0,14.0,breakfast,cereal
+58,2550362,1,prior,10,4,8,30.0,12427.0,9.0,1.0,Original Beef Jerky,23.0,19.0,snacks,popcorn jerky
+59,1187899,1,train,11,4,8,14.0,196.0,1.0,1.0,Soda,77.0,7.0,beverages,soft drinks
+60,1187899,1,train,11,4,8,14.0,25133.0,2.0,1.0,Organic String Cheese,21.0,16.0,dairy eggs,packaged cheese
+61,1187899,1,train,11,4,8,14.0,38928.0,3.0,1.0,0% Greek Strained Yogurt,120.0,16.0,dairy eggs,yogurt
+62,1187899,1,train,11,4,8,14.0,26405.0,4.0,1.0,XL Pick-A-Size Paper Towel Rolls,54.0,17.0,household,paper goods
+63,1187899,1,train,11,4,8,14.0,39657.0,5.0,1.0,Milk Chocolate Almonds,45.0,19.0,snacks,candy chocolate
+64,1187899,1,train,11,4,8,14.0,10258.0,6.0,1.0,Pistachios,117.0,19.0,snacks,nuts seeds dried fruit
+65,1187899,1,train,11,4,8,14.0,13032.0,7.0,1.0,Cinnamon Toast Crunch,121.0,14.0,breakfast,cereal
+66,1187899,1,train,11,4,8,14.0,26088.0,8.0,1.0,Aged White Cheddar Popcorn,23.0,19.0,snacks,popcorn jerky
+67,1187899,1,train,11,4,8,14.0,27845.0,9.0,0.0,Organic Whole Milk,84.0,16.0,dairy eggs,milk
+68,1187899,1,train,11,4,8,14.0,49235.0,10.0,1.0,Organic Half & Half,53.0,16.0,dairy eggs,cream
+69,1187899,1,train,11,4,8,14.0,46149.0,11.0,1.0,Zero Calorie Cola,77.0,7.0,beverages,soft drinks
+70,2168274,2,prior,1,2,11,,32792.0,1.0,0.0,Chipotle Beef & Pork Realstick,23.0,19.0,snacks,popcorn jerky
+71,2168274,2,prior,1,2,11,,47766.0,2.0,0.0,Organic Avocado,24.0,4.0,produce,fresh fruits
+72,2168274,2,prior,1,2,11,,20574.0,3.0,0.0,Roasted Turkey,96.0,20.0,deli,lunch meat
+73,2168274,2,prior,1,2,11,,12000.0,4.0,0.0,Baked Organic Sea Salt Crunchy Pea Snack,72.0,13.0,pantry,condiments
+74,2168274,2,prior,1,2,11,,48110.0,5.0,0.0,Thin Stackers Brown Rice Lightly Salted,78.0,19.0,snacks,crackers
+75,2168274,2,prior,1,2,11,,22474.0,6.0,0.0,Cheddar Bunnies Snack Crackers,78.0,19.0,snacks,crackers
+76,2168274,2,prior,1,2,11,,16589.0,7.0,0.0,Plantain Chips,107.0,19.0,snacks,chips pretzels
+77,2168274,2,prior,1,2,11,,35917.0,8.0,0.0,Organic Just Concord Grape Juice,98.0,7.0,beverages,juice nectars
+78,2168274,2,prior,1,2,11,,27344.0,9.0,0.0,Uncured Genoa Salami,96.0,20.0,deli,lunch meat
+79,2168274,2,prior,1,2,11,,30489.0,10.0,0.0,Original Hummus,67.0,20.0,deli,fresh dips tapenades
+80,2168274,2,prior,1,2,11,,27966.0,11.0,0.0,Organic Raspberries,123.0,4.0,produce,packaged vegetables fruits
+81,2168274,2,prior,1,2,11,,13176.0,12.0,0.0,Bag of Organic Bananas,24.0,4.0,produce,fresh fruits
+82,2168274,2,prior,1,2,11,,45066.0,13.0,0.0,Honeycrisp Apple,24.0,4.0,produce,fresh fruits
+83,1501582,2,prior,2,5,10,10.0,16797.0,1.0,0.0,Strawberries,24.0,4.0,produce,fresh fruits
+84,1501582,2,prior,2,5,10,10.0,47526.0,2.0,0.0,Goat Cheese Log,21.0,16.0,dairy eggs,packaged cheese
+85,1501582,2,prior,2,5,10,10.0,8479.0,3.0,0.0,Original Black Box Tablewater Cracker,78.0,19.0,snacks,crackers
+86,1501582,2,prior,2,5,10,10.0,47766.0,4.0,1.0,Organic Avocado,24.0,4.0,produce,fresh fruits
+87,1501582,2,prior,2,5,10,10.0,19051.0,5.0,0.0,"Pita Chips, Simply Naked, Party Size",107.0,19.0,snacks,chips pretzels
+88,1501582,2,prior,2,5,10,10.0,8138.0,6.0,0.0,Traditional Hummus,67.0,20.0,deli,fresh dips tapenades
+89,1901567,2,prior,3,1,10,3.0,47766.0,1.0,1.0,Organic Avocado,24.0,4.0,produce,fresh fruits
+90,1901567,2,prior,3,1,10,3.0,32792.0,2.0,1.0,Chipotle Beef & Pork Realstick,23.0,19.0,snacks,popcorn jerky
+91,1901567,2,prior,3,1,10,3.0,20574.0,3.0,1.0,Roasted Turkey,96.0,20.0,deli,lunch meat
+92,1901567,2,prior,3,1,10,3.0,7781.0,4.0,0.0,Organic Sticks Low Moisture Part Skim Mozzarella String Cheese,21.0,16.0,dairy eggs,packaged cheese
+93,1901567,2,prior,3,1,10,3.0,28874.0,5.0,0.0,Carrot Ginger Soup,1.0,20.0,deli,prepared soups salads
+94,738281,2,prior,4,2,10,8.0,49451.0,1.0,0.0,Artichoke Spinach Dip,67.0,20.0,deli,fresh dips tapenades
+95,738281,2,prior,4,2,10,8.0,32792.0,2.0,1.0,Chipotle Beef & Pork Realstick,23.0,19.0,snacks,popcorn jerky
+96,738281,2,prior,4,2,10,8.0,32139.0,3.0,0.0,Hommus Classic Original,67.0,20.0,deli,fresh dips tapenades
+97,738281,2,prior,4,2,10,8.0,34688.0,4.0,0.0,Good Belly Probiotics Juice Drink Blueberry Acai Flavor,31.0,7.0,beverages,refrigerated
+98,738281,2,prior,4,2,10,8.0,36735.0,5.0,0.0,Organic Roasted Sliced Chicken Breast,96.0,20.0,deli,lunch meat
+99,738281,2,prior,4,2,10,8.0,37646.0,6.0,0.0,Organic Gala Apples,24.0,4.0,produce,fresh fruits
+100,738281,2,prior,4,2,10,8.0,22829.0,7.0,0.0,Multigrain Flax Seeded Flatbread Crackers,78.0,19.0,snacks,crackers
+101,738281,2,prior,4,2,10,8.0,24852.0,8.0,0.0,Banana,24.0,4.0,produce,fresh fruits
+102,738281,2,prior,4,2,10,8.0,47209.0,9.0,0.0,Organic Hass Avocado,24.0,4.0,produce,fresh fruits
+103,738281,2,prior,4,2,10,8.0,33276.0,10.0,0.0,Kalamata Olive Spread,67.0,20.0,deli,fresh dips tapenades
+104,738281,2,prior,4,2,10,8.0,45613.0,11.0,0.0,Pad Thai,38.0,1.0,frozen,frozen meals
+105,738281,2,prior,4,2,10,8.0,9681.0,12.0,0.0,Chicken Tikka Masala with Cumin Infused Basmati Rice Frozen Meal,38.0,1.0,frozen,frozen meals
+106,738281,2,prior,4,2,10,8.0,21150.0,13.0,0.0,Fire Grilled Steak Bowl,38.0,1.0,frozen,frozen meals
+107,1673511,2,prior,5,3,11,8.0,47144.0,1.0,0.0,Unsweetened Original Almond Breeze Almond Milk,91.0,16.0,dairy eggs,soy lactosefree
+108,1673511,2,prior,5,3,11,8.0,5322.0,2.0,0.0,Gluten Free Dark Chocolate Chunk Chewy with a Crunch Granola Bars,3.0,19.0,snacks,energy granola bars
+109,1673511,2,prior,5,3,11,8.0,17224.0,3.0,0.0,Oats & Honey Gluten Free Granola,3.0,19.0,snacks,energy granola bars
+110,1673511,2,prior,5,3,11,8.0,38656.0,4.0,0.0,Gluten Free Peanut Butter Dark Chocolate Chewy With a Crunch Granola Bars,3.0,19.0,snacks,energy granola bars
+111,1673511,2,prior,5,3,11,8.0,21376.0,5.0,0.0,Pretzel Crisps Original Deli Style Pretzel Crackers,107.0,19.0,snacks,chips pretzels
+112,1673511,2,prior,5,3,11,8.0,48210.0,6.0,0.0,Whole Wheat Blueberry Fig Bars,48.0,14.0,breakfast,breakfast bars pastries
+113,1673511,2,prior,5,3,11,8.0,5907.0,7.0,0.0,Apple Cinnamon Fig Bar,48.0,14.0,breakfast,breakfast bars pastries
+114,1673511,2,prior,5,3,11,8.0,14553.0,8.0,0.0,Oats & Honey Granola,57.0,14.0,breakfast,granola
+115,1673511,2,prior,5,3,11,8.0,47553.0,9.0,0.0,Sugarfree Peppermint Chewing Gum,20.0,11.0,personal care,oral hygiene
+116,1673511,2,prior,5,3,11,8.0,22124.0,10.0,0.0,Total 0% Raspberry Yogurt,120.0,16.0,dairy eggs,yogurt
+117,1673511,2,prior,5,3,11,8.0,19156.0,11.0,0.0,Fat Free Blueberry Yogurt,120.0,16.0,dairy eggs,yogurt
+118,1673511,2,prior,5,3,11,8.0,1559.0,12.0,0.0,Cherry Pomegranate Greek Yogurt,120.0,16.0,dairy eggs,yogurt
+119,1673511,2,prior,5,3,11,8.0,47766.0,13.0,1.0,Organic Avocado,24.0,4.0,produce,fresh fruits
+120,1199898,2,prior,6,2,9,13.0,32792.0,1.0,1.0,Chipotle Beef & Pork Realstick,23.0,19.0,snacks,popcorn jerky
+121,1199898,2,prior,6,2,9,13.0,12000.0,2.0,1.0,Baked Organic Sea Salt Crunchy Pea Snack,72.0,13.0,pantry,condiments
+122,1199898,2,prior,6,2,9,13.0,9681.0,3.0,1.0,Chicken Tikka Masala with Cumin Infused Basmati Rice Frozen Meal,38.0,1.0,frozen,frozen meals
+123,1199898,2,prior,6,2,9,13.0,32139.0,4.0,1.0,Hommus Classic Original,67.0,20.0,deli,fresh dips tapenades
+124,1199898,2,prior,6,2,9,13.0,32052.0,5.0,0.0,Organic Brown Rice Cake Salt-Free,78.0,19.0,snacks,crackers
+125,1199898,2,prior,6,2,9,13.0,27344.0,6.0,1.0,Uncured Genoa Salami,96.0,20.0,deli,lunch meat
+126,1199898,2,prior,6,2,9,13.0,24852.0,7.0,1.0,Banana,24.0,4.0,produce,fresh fruits
+127,1199898,2,prior,6,2,9,13.0,45066.0,8.0,1.0,Honeycrisp Apple,24.0,4.0,produce,fresh fruits
+128,1199898,2,prior,6,2,9,13.0,27966.0,9.0,1.0,Organic Raspberries,123.0,4.0,produce,packaged vegetables fruits
+129,1199898,2,prior,6,2,9,13.0,47209.0,10.0,1.0,Organic Hass Avocado,24.0,4.0,produce,fresh fruits
+130,1199898,2,prior,6,2,9,13.0,36735.0,11.0,1.0,Organic Roasted Sliced Chicken Breast,96.0,20.0,deli,lunch meat
+131,1199898,2,prior,6,2,9,13.0,46676.0,12.0,0.0,Total 0% Nonfat Greek Yogurt,120.0,16.0,dairy eggs,yogurt
+132,1199898,2,prior,6,2,9,13.0,33754.0,13.0,0.0,Total 2% with Strawberry Lowfat Greek Strained Yogurt,120.0,16.0,dairy eggs,yogurt
+133,1199898,2,prior,6,2,9,13.0,17872.0,14.0,0.0,Total 2% Lowfat Plain Greek Yogurt,120.0,16.0,dairy eggs,yogurt
+134,1199898,2,prior,6,2,9,13.0,18523.0,15.0,0.0,Total 2% All Natural Greek Strained Yogurt with Honey,120.0,16.0,dairy eggs,yogurt
+135,1199898,2,prior,6,2,9,13.0,24954.0,16.0,0.0,Total 0% with Honey Nonfat Greek Strained Yogurt,120.0,16.0,dairy eggs,yogurt
+136,1199898,2,prior,6,2,9,13.0,4957.0,17.0,0.0,Total 2% Lowfat Greek Strained Yogurt With Blueberry,120.0,16.0,dairy eggs,yogurt
+137,1199898,2,prior,6,2,9,13.0,40571.0,18.0,0.0,Total 2% Greek Strained Yogurt with Cherry 5.3 oz,120.0,16.0,dairy eggs,yogurt
+138,1199898,2,prior,6,2,9,13.0,41787.0,19.0,0.0,Bartlett Pears,24.0,4.0,produce,fresh fruits
+139,1199898,2,prior,6,2,9,13.0,19051.0,20.0,1.0,"Pita Chips, Simply Naked, Party Size",107.0,19.0,snacks,chips pretzels
+140,1199898,2,prior,6,2,9,13.0,33276.0,21.0,1.0,Kalamata Olive Spread,67.0,20.0,deli,fresh dips tapenades
+141,3194192,2,prior,7,2,12,14.0,32792.0,1.0,1.0,Chipotle Beef & Pork Realstick,23.0,19.0,snacks,popcorn jerky
+142,3194192,2,prior,7,2,12,14.0,12000.0,2.0,1.0,Baked Organic Sea Salt Crunchy Pea Snack,72.0,13.0,pantry,condiments
+143,3194192,2,prior,7,2,12,14.0,16589.0,3.0,1.0,Plantain Chips,107.0,19.0,snacks,chips pretzels
+144,3194192,2,prior,7,2,12,14.0,32052.0,4.0,1.0,Organic Brown Rice Cake Salt-Free,78.0,19.0,snacks,crackers
+145,3194192,2,prior,7,2,12,14.0,19051.0,5.0,1.0,"Pita Chips, Simply Naked, Party Size",107.0,19.0,snacks,chips pretzels
+146,3194192,2,prior,7,2,12,14.0,32139.0,6.0,1.0,Hommus Classic Original,67.0,20.0,deli,fresh dips tapenades
+147,3194192,2,prior,7,2,12,14.0,47209.0,7.0,1.0,Organic Hass Avocado,24.0,4.0,produce,fresh fruits
+148,3194192,2,prior,7,2,12,14.0,24852.0,8.0,1.0,Banana,24.0,4.0,produce,fresh fruits
+149,3194192,2,prior,7,2,12,14.0,46886.0,9.0,0.0,Raspberry Yoghurt,120.0,16.0,dairy eggs,yogurt
+150,3194192,2,prior,7,2,12,14.0,40198.0,10.0,0.0,Blueberry Yoghurt,120.0,16.0,dairy eggs,yogurt
+151,3194192,2,prior,7,2,12,14.0,17758.0,11.0,0.0,Strawberry Rhubarb Yoghurt,120.0,16.0,dairy eggs,yogurt
+152,3194192,2,prior,7,2,12,14.0,45066.0,12.0,1.0,Honeycrisp Apple,24.0,4.0,produce,fresh fruits
+153,3194192,2,prior,7,2,12,14.0,41787.0,13.0,1.0,Bartlett Pears,24.0,4.0,produce,fresh fruits
+154,3194192,2,prior,7,2,12,14.0,34688.0,14.0,1.0,Good Belly Probiotics Juice Drink Blueberry Acai Flavor,31.0,7.0,beverages,refrigerated
+155,788338,2,prior,8,1,15,27.0,32792.0,1.0,1.0,Chipotle Beef & Pork Realstick,23.0,19.0,snacks,popcorn jerky
+156,788338,2,prior,8,1,15,27.0,28918.0,2.0,0.0,Marcona Almonds,117.0,19.0,snacks,nuts seeds dried fruit
+157,788338,2,prior,8,1,15,27.0,24852.0,3.0,1.0,Banana,24.0,4.0,produce,fresh fruits
+158,788338,2,prior,8,1,15,27.0,34688.0,4.0,1.0,Good Belly Probiotics Juice Drink Blueberry Acai Flavor,31.0,7.0,beverages,refrigerated
+159,788338,2,prior,8,1,15,27.0,48110.0,5.0,1.0,Thin Stackers Brown Rice Lightly Salted,78.0,19.0,snacks,crackers
+160,788338,2,prior,8,1,15,27.0,47209.0,6.0,1.0,Organic Hass Avocado,24.0,4.0,produce,fresh fruits
+161,788338,2,prior,8,1,15,27.0,32052.0,7.0,1.0,Organic Brown Rice Cake Salt-Free,78.0,19.0,snacks,crackers
+162,788338,2,prior,8,1,15,27.0,17758.0,8.0,1.0,Strawberry Rhubarb Yoghurt,120.0,16.0,dairy eggs,yogurt
+163,788338,2,prior,8,1,15,27.0,40198.0,9.0,1.0,Blueberry Yoghurt,120.0,16.0,dairy eggs,yogurt
+164,788338,2,prior,8,1,15,27.0,46886.0,10.0,1.0,Raspberry Yoghurt,120.0,16.0,dairy eggs,yogurt
+165,788338,2,prior,8,1,15,27.0,22963.0,11.0,0.0,Organic Roasted Turkey Breast,96.0,20.0,deli,lunch meat
+166,788338,2,prior,8,1,15,27.0,23.0,12.0,0.0,Organic Turkey Burgers,49.0,12.0,meat seafood,packaged poultry
+167,788338,2,prior,8,1,15,27.0,20084.0,13.0,0.0,Pineapple Apple Mint Organic Cold Pressed Juicd,31.0,7.0,beverages,refrigerated
+168,788338,2,prior,8,1,15,27.0,2002.0,14.0,0.0,"The \""World's Best\"" Veggie Burger",42.0,1.0,frozen,frozen vegan vegetarian
+169,788338,2,prior,8,1,15,27.0,5212.0,15.0,0.0,Watermelon Chunks,123.0,4.0,produce,packaged vegetables fruits
+170,788338,2,prior,8,1,15,27.0,14306.0,16.0,0.0,Organic Packham Or Anjou Pears,110.0,13.0,pantry,pickled goods olives
+171,1718559,2,prior,9,2,9,8.0,32792.0,1.0,1.0,Chipotle Beef & Pork Realstick,23.0,19.0,snacks,popcorn jerky
+172,1718559,2,prior,9,2,9,8.0,24852.0,2.0,1.0,Banana,24.0,4.0,produce,fresh fruits
+173,1718559,2,prior,9,2,9,8.0,12000.0,3.0,1.0,Baked Organic Sea Salt Crunchy Pea Snack,72.0,13.0,pantry,condiments
+174,1718559,2,prior,9,2,9,8.0,21376.0,4.0,1.0,Pretzel Crisps Original Deli Style Pretzel Crackers,107.0,19.0,snacks,chips pretzels
+175,1718559,2,prior,9,2,9,8.0,2002.0,5.0,1.0,"The \""World's Best\"" Veggie Burger",42.0,1.0,frozen,frozen vegan vegetarian
+176,1718559,2,prior,9,2,9,8.0,7781.0,6.0,1.0,Organic Sticks Low Moisture Part Skim Mozzarella String Cheese,21.0,16.0,dairy eggs,packaged cheese
+177,1718559,2,prior,9,2,9,8.0,13742.0,7.0,0.0,Organic Coconut Almond Peanut,3.0,19.0,snacks,energy granola bars
+178,1718559,2,prior,9,2,9,8.0,18961.0,8.0,0.0,Organic Dark Chocolate Pomegranate Trail Mix Bar,3.0,19.0,snacks,energy granola bars
+179,1718559,2,prior,9,2,9,8.0,15841.0,9.0,0.0,Organic Dark Chocolate Almond & Sea Salt Trail Mix Bar,3.0,19.0,snacks,energy granola bars
+180,1718559,2,prior,9,2,9,8.0,33754.0,10.0,1.0,Total 2% with Strawberry Lowfat Greek Strained Yogurt,120.0,16.0,dairy eggs,yogurt
+181,1718559,2,prior,9,2,9,8.0,22124.0,11.0,1.0,Total 0% Raspberry Yogurt,120.0,16.0,dairy eggs,yogurt
+182,1718559,2,prior,9,2,9,8.0,19156.0,12.0,1.0,Fat Free Blueberry Yogurt,120.0,16.0,dairy eggs,yogurt
+183,1718559,2,prior,9,2,9,8.0,1559.0,13.0,1.0,Cherry Pomegranate Greek Yogurt,120.0,16.0,dairy eggs,yogurt
+184,1718559,2,prior,9,2,9,8.0,13351.0,14.0,0.0,Total 0% Peach Yogurt,120.0,16.0,dairy eggs,yogurt
+185,1718559,2,prior,9,2,9,8.0,18523.0,15.0,1.0,Total 2% All Natural Greek Strained Yogurt with Honey,120.0,16.0,dairy eggs,yogurt
+186,1718559,2,prior,9,2,9,8.0,17872.0,16.0,1.0,Total 2% Lowfat Plain Greek Yogurt,120.0,16.0,dairy eggs,yogurt
+187,1718559,2,prior,9,2,9,8.0,5450.0,17.0,0.0,Small Hass Avocado,24.0,4.0,produce,fresh fruits
+188,1718559,2,prior,9,2,9,8.0,22474.0,18.0,1.0,Cheddar Bunnies Snack Crackers,78.0,19.0,snacks,crackers
+189,1718559,2,prior,9,2,9,8.0,48099.0,19.0,0.0,Truffle Parmesan Macaroni & Cheese Bowl,38.0,1.0,frozen,frozen meals
+190,1718559,2,prior,9,2,9,8.0,49273.0,20.0,0.0,Light and Lean Quinoa Black Beans with Butternut Squash and Chard,38.0,1.0,frozen,frozen meals
+191,1718559,2,prior,9,2,9,8.0,47792.0,21.0,0.0,Organic Beans & Rice Cheddar Cheese Burrito,38.0,1.0,frozen,frozen meals
+192,1718559,2,prior,9,2,9,8.0,45613.0,22.0,1.0,Pad Thai,38.0,1.0,frozen,frozen meals
+193,1718559,2,prior,9,2,9,8.0,9124.0,23.0,0.0,Broccoli & Cheddar Bake Meal Bowl,38.0,1.0,frozen,frozen meals
+194,1718559,2,prior,9,2,9,8.0,22559.0,24.0,0.0,Kitchen Cheese Enchilada,38.0,1.0,frozen,frozen meals
+195,1718559,2,prior,9,2,9,8.0,33957.0,25.0,0.0,Mexican Casserole Bowl,38.0,1.0,frozen,frozen meals
+196,1718559,2,prior,9,2,9,8.0,27737.0,26.0,0.0,Brown Rice Black-Eyed Peas and Veggies Bowl,38.0,1.0,frozen,frozen meals
+197,1447487,2,prior,10,1,11,6.0,24852.0,1.0,1.0,Banana,24.0,4.0,produce,fresh fruits
+198,1447487,2,prior,10,1,11,6.0,12000.0,2.0,1.0,Baked Organic Sea Salt Crunchy Pea Snack,72.0,13.0,pantry,condiments
+199,1447487,2,prior,10,1,11,6.0,47209.0,3.0,1.0,Organic Hass Avocado,24.0,4.0,produce,fresh fruits
+200,1447487,2,prior,10,1,11,6.0,17872.0,4.0,1.0,Total 2% Lowfat Plain Greek Yogurt,120.0,16.0,dairy eggs,yogurt
+201,1447487,2,prior,10,1,11,6.0,18523.0,5.0,1.0,Total 2% All Natural Greek Strained Yogurt with Honey,120.0,16.0,dairy eggs,yogurt
+202,1447487,2,prior,10,1,11,6.0,1559.0,6.0,1.0,Cherry Pomegranate Greek Yogurt,120.0,16.0,dairy eggs,yogurt
+203,1447487,2,prior,10,1,11,6.0,19156.0,7.0,1.0,Fat Free Blueberry Yogurt,120.0,16.0,dairy eggs,yogurt
+204,1447487,2,prior,10,1,11,6.0,2002.0,8.0,1.0,"The \""World's Best\"" Veggie Burger",42.0,1.0,frozen,frozen vegan vegetarian
+205,1447487,2,prior,10,1,11,6.0,2573.0,9.0,0.0,Garlic Pepper Ramen,66.0,6.0,international,asian foods
+206,1402090,2,prior,11,1,10,30.0,32792.0,1.0,1.0,Chipotle Beef & Pork Realstick,23.0,19.0,snacks,popcorn jerky
+207,1402090,2,prior,11,1,10,30.0,4071.0,2.0,0.0,Organic Lemongrass Ginger Ramen,66.0,6.0,international,asian foods
+208,1402090,2,prior,11,1,10,30.0,19051.0,3.0,1.0,"Pita Chips, Simply Naked, Party Size",107.0,19.0,snacks,chips pretzels
+209,1402090,2,prior,11,1,10,30.0,19156.0,4.0,1.0,Fat Free Blueberry Yogurt,120.0,16.0,dairy eggs,yogurt
+210,1402090,2,prior,11,1,10,30.0,18523.0,5.0,1.0,Total 2% All Natural Greek Strained Yogurt with Honey,120.0,16.0,dairy eggs,yogurt
+211,1402090,2,prior,11,1,10,30.0,1559.0,6.0,1.0,Cherry Pomegranate Greek Yogurt,120.0,16.0,dairy eggs,yogurt
+212,1402090,2,prior,11,1,10,30.0,22124.0,7.0,1.0,Total 0% Raspberry Yogurt,120.0,16.0,dairy eggs,yogurt
+213,1402090,2,prior,11,1,10,30.0,33754.0,8.0,1.0,Total 2% with Strawberry Lowfat Greek Strained Yogurt,120.0,16.0,dairy eggs,yogurt
+214,1402090,2,prior,11,1,10,30.0,22474.0,9.0,1.0,Cheddar Bunnies Snack Crackers,78.0,19.0,snacks,crackers
+215,1402090,2,prior,11,1,10,30.0,16589.0,10.0,1.0,Plantain Chips,107.0,19.0,snacks,chips pretzels
+216,1402090,2,prior,11,1,10,30.0,32139.0,11.0,1.0,Hommus Classic Original,67.0,20.0,deli,fresh dips tapenades
+217,1402090,2,prior,11,1,10,30.0,8296.0,12.0,0.0,OG Sesame Tamari Rice Cake Organic Rice Cakes,78.0,19.0,snacks,crackers
+218,1402090,2,prior,11,1,10,30.0,47209.0,13.0,1.0,Organic Hass Avocado,24.0,4.0,produce,fresh fruits
+219,1402090,2,prior,11,1,10,30.0,2002.0,14.0,1.0,"The \""World's Best\"" Veggie Burger",42.0,1.0,frozen,frozen vegan vegetarian
+220,1402090,2,prior,11,1,10,30.0,21227.0,15.0,0.0,Smart Dogs Veggie Hot Dogs,14.0,20.0,deli,tofu meat alternatives
+221,3186735,2,prior,12,1,9,28.0,32792.0,1.0,1.0,Chipotle Beef & Pork Realstick,23.0,19.0,snacks,popcorn jerky
+222,3186735,2,prior,12,1,9,28.0,47209.0,2.0,1.0,Organic Hass Avocado,24.0,4.0,produce,fresh fruits
+223,3186735,2,prior,12,1,9,28.0,22124.0,3.0,1.0,Total 0% Raspberry Yogurt,120.0,16.0,dairy eggs,yogurt
+224,3186735,2,prior,12,1,9,28.0,19156.0,4.0,1.0,Fat Free Blueberry Yogurt,120.0,16.0,dairy eggs,yogurt
+225,3186735,2,prior,12,1,9,28.0,1559.0,5.0,1.0,Cherry Pomegranate Greek Yogurt,120.0,16.0,dairy eggs,yogurt
+226,3186735,2,prior,12,1,9,28.0,13351.0,6.0,1.0,Total 0% Peach Yogurt,120.0,16.0,dairy eggs,yogurt
+227,3186735,2,prior,12,1,9,28.0,3151.0,7.0,0.0,Super Tea Power Greens,94.0,7.0,beverages,tea
+228,3186735,2,prior,12,1,9,28.0,19240.0,8.0,0.0,Organic Fuji Red Apple Chips,107.0,19.0,snacks,chips pretzels
+229,3186735,2,prior,12,1,9,28.0,21709.0,9.0,0.0,Sparkling Lemon Water,115.0,7.0,beverages,water seltzer sparkling water
+230,3186735,2,prior,12,1,9,28.0,10305.0,10.0,0.0,Black Plum,24.0,4.0,produce,fresh fruits
+231,3186735,2,prior,12,1,9,28.0,24990.0,11.0,0.0,Go Mango! Organic Dried Chili Lime Mango,117.0,19.0,snacks,nuts seeds dried fruit
+232,3186735,2,prior,12,1,9,28.0,18523.0,12.0,1.0,Total 2% All Natural Greek Strained Yogurt with Honey,120.0,16.0,dairy eggs,yogurt
+233,3186735,2,prior,12,1,9,28.0,36735.0,13.0,1.0,Organic Roasted Sliced Chicken Breast,96.0,20.0,deli,lunch meat
+234,3186735,2,prior,12,1,9,28.0,22963.0,14.0,1.0,Organic Roasted Turkey Breast,96.0,20.0,deli,lunch meat
+235,3186735,2,prior,12,1,9,28.0,33754.0,15.0,1.0,Total 2% with Strawberry Lowfat Greek Strained Yogurt,120.0,16.0,dairy eggs,yogurt
+236,3186735,2,prior,12,1,9,28.0,16589.0,16.0,1.0,Plantain Chips,107.0,19.0,snacks,chips pretzels
+237,3186735,2,prior,12,1,9,28.0,36287.0,17.0,0.0,Smooth Operator Natural Peanut Butter,88.0,13.0,pantry,spreads
+238,3186735,2,prior,12,1,9,28.0,42356.0,18.0,0.0,Strawberry Preserves,88.0,13.0,pantry,spreads
+239,3186735,2,prior,12,1,9,28.0,12258.0,19.0,0.0,Organic White English Muffins,93.0,3.0,bakery,breakfast bakery
+240,3268552,2,prior,13,4,11,30.0,42342.0,1.0,0.0,Roasted Turkey Breast,96.0,20.0,deli,lunch meat
+241,3268552,2,prior,13,4,11,30.0,30908.0,2.0,0.0,Teriyaki Turkey Jerky,23.0,19.0,snacks,popcorn jerky
+242,3268552,2,prior,13,4,11,30.0,79.0,3.0,0.0,Wild Albacore Tuna No Salt Added,95.0,15.0,canned goods,canned meat seafood
+243,3268552,2,prior,13,4,11,30.0,5869.0,4.0,0.0,Unsweetened Carob Chips,17.0,13.0,pantry,baking ingredients
+244,3268552,2,prior,13,4,11,30.0,44303.0,5.0,0.0,Organic Shredded Unsweetened Coconut,17.0,13.0,pantry,baking ingredients
+245,3268552,2,prior,13,4,11,30.0,16521.0,6.0,0.0,Walnut Halves & Pieces,117.0,19.0,snacks,nuts seeds dried fruit
+246,3268552,2,prior,13,4,11,30.0,39877.0,7.0,0.0,Organic Granny Smith Apple,24.0,4.0,produce,fresh fruits
+247,3268552,2,prior,13,4,11,30.0,19057.0,8.0,0.0,Organic Large Extra Fancy Fuji Apple,24.0,4.0,produce,fresh fruits
+248,3268552,2,prior,13,4,11,30.0,45948.0,9.0,0.0,Gluten Free 7 Grain Bread,112.0,3.0,bakery,bread
+249,839880,2,prior,14,3,10,13.0,24852.0,1.0,1.0,Banana,24.0,4.0,produce,fresh fruits
+250,839880,2,prior,14,3,10,13.0,16589.0,2.0,1.0,Plantain Chips,107.0,19.0,snacks,chips pretzels
+251,839880,2,prior,14,3,10,13.0,1559.0,3.0,1.0,Cherry Pomegranate Greek Yogurt,120.0,16.0,dairy eggs,yogurt
+252,839880,2,prior,14,3,10,13.0,19156.0,4.0,1.0,Fat Free Blueberry Yogurt,120.0,16.0,dairy eggs,yogurt
+253,839880,2,prior,14,3,10,13.0,18523.0,5.0,1.0,Total 2% All Natural Greek Strained Yogurt with Honey,120.0,16.0,dairy eggs,yogurt
+254,839880,2,prior,14,3,10,13.0,22825.0,6.0,0.0,Organic D'Anjou Pears,24.0,4.0,produce,fresh fruits
+255,839880,2,prior,14,3,10,13.0,27413.0,7.0,0.0,100% Mighty Mango Juice Smoothie,31.0,7.0,beverages,refrigerated
+256,839880,2,prior,14,3,10,13.0,33754.0,8.0,1.0,Total 2% with Strawberry Lowfat Greek Strained Yogurt,120.0,16.0,dairy eggs,yogurt
+257,839880,2,prior,14,3,10,13.0,21709.0,9.0,1.0,Sparkling Lemon Water,115.0,7.0,beverages,water seltzer sparkling water
+258,839880,2,prior,14,3,10,13.0,47209.0,10.0,1.0,Organic Hass Avocado,24.0,4.0,produce,fresh fruits
+259,839880,2,prior,14,3,10,13.0,7781.0,11.0,1.0,Organic Sticks Low Moisture Part Skim Mozzarella String Cheese,21.0,16.0,dairy eggs,packaged cheese
+260,839880,2,prior,14,3,10,13.0,2573.0,12.0,1.0,Garlic Pepper Ramen,66.0,6.0,international,asian foods
+261,839880,2,prior,14,3,10,13.0,39928.0,13.0,0.0,Organic Kiwi,24.0,4.0,produce,fresh fruits
+262,839880,2,prior,14,3,10,13.0,20785.0,14.0,0.0,Extra Sharp Aged Cheddar Cheese slices,21.0,16.0,dairy eggs,packaged cheese
+263,839880,2,prior,14,3,10,13.0,24768.0,15.0,0.0,All Natural Honey Almond Butter,88.0,13.0,pantry,spreads
+264,839880,2,prior,14,3,10,13.0,7963.0,16.0,0.0,Gluten Free Whole Grain Bread,58.0,1.0,frozen,frozen breads doughs
+265,1492625,2,train,15,1,11,30.0,22963.0,1.0,1.0,Organic Roasted Turkey Breast,96.0,20.0,deli,lunch meat
+266,1492625,2,train,15,1,11,30.0,7963.0,2.0,1.0,Gluten Free Whole Grain Bread,58.0,1.0,frozen,frozen breads doughs
+267,1492625,2,train,15,1,11,30.0,16589.0,3.0,1.0,Plantain Chips,107.0,19.0,snacks,chips pretzels
+268,1492625,2,train,15,1,11,30.0,32792.0,4.0,1.0,Chipotle Beef & Pork Realstick,23.0,19.0,snacks,popcorn jerky
+269,1492625,2,train,15,1,11,30.0,41787.0,5.0,1.0,Bartlett Pears,24.0,4.0,produce,fresh fruits
+270,1492625,2,train,15,1,11,30.0,22825.0,6.0,1.0,Organic D'Anjou Pears,24.0,4.0,produce,fresh fruits
+271,1492625,2,train,15,1,11,30.0,13640.0,7.0,0.0,Asian Pears,24.0,4.0,produce,fresh fruits
+272,1492625,2,train,15,1,11,30.0,24852.0,8.0,1.0,Banana,24.0,4.0,produce,fresh fruits
+273,1492625,2,train,15,1,11,30.0,45066.0,9.0,1.0,Honeycrisp Apple,24.0,4.0,produce,fresh fruits
+274,1492625,2,train,15,1,11,30.0,9387.0,10.0,0.0,Granny Smith Apples,24.0,4.0,produce,fresh fruits
+275,1492625,2,train,15,1,11,30.0,5450.0,11.0,1.0,Small Hass Avocado,24.0,4.0,produce,fresh fruits
+276,1492625,2,train,15,1,11,30.0,24838.0,12.0,0.0,Unsweetened Almondmilk,91.0,16.0,dairy eggs,soy lactosefree
+277,1492625,2,train,15,1,11,30.0,38547.0,13.0,0.0,Bubblegum Flavor Natural Chewing Gum,46.0,19.0,snacks,mint gum
+278,1492625,2,train,15,1,11,30.0,19019.0,14.0,0.0,Uncured Slow Cooked Ham,96.0,20.0,deli,lunch meat
+279,1492625,2,train,15,1,11,30.0,12007.0,15.0,0.0,Organic All Day Fresh Deodorant Lavender,80.0,11.0,personal care,deodorants
+280,1492625,2,train,15,1,11,30.0,26352.0,16.0,0.0,Chicken Caesar Salad,1.0,20.0,deli,prepared soups salads
+281,1492625,2,train,15,1,11,30.0,22559.0,17.0,1.0,Kitchen Cheese Enchilada,38.0,1.0,frozen,frozen meals
+282,1492625,2,train,15,1,11,30.0,45613.0,18.0,1.0,Pad Thai,38.0,1.0,frozen,frozen meals
+283,1492625,2,train,15,1,11,30.0,31883.0,19.0,0.0,Vegetable Lasagna,38.0,1.0,frozen,frozen meals
+284,1492625,2,train,15,1,11,30.0,12324.0,20.0,0.0,Indian Paneer Tikka,38.0,1.0,frozen,frozen meals
+285,1492625,2,train,15,1,11,30.0,33957.0,21.0,1.0,Mexican Casserole Bowl,38.0,1.0,frozen,frozen meals
+286,1492625,2,train,15,1,11,30.0,5699.0,22.0,0.0,Gluten Free Mushroom Risotto Bowl,38.0,1.0,frozen,frozen meals
+287,1492625,2,train,15,1,11,30.0,31612.0,23.0,0.0,Black Bean Vegetables Burrito,38.0,1.0,frozen,frozen meals
+288,1492625,2,train,15,1,11,30.0,34284.0,24.0,0.0,Organic Light In Sodium Butternut Squash Soup,69.0,15.0,canned goods,soup broth bouillon
+289,1492625,2,train,15,1,11,30.0,48523.0,25.0,0.0,Birthday Cake Light Ice Cream,37.0,1.0,frozen,ice cream ice
+290,1492625,2,train,15,1,11,30.0,2361.0,26.0,0.0,Mint Chip,37.0,1.0,frozen,ice cream ice
+291,1492625,2,train,15,1,11,30.0,48821.0,27.0,0.0,Pistachio Ice Cream,37.0,1.0,frozen,ice cream ice
+292,1492625,2,train,15,1,11,30.0,11913.0,28.0,0.0,Shelled Pistachios,117.0,19.0,snacks,nuts seeds dried fruit
+293,1492625,2,train,15,1,11,30.0,45645.0,29.0,0.0,Dark Chocolate Nuts & Sea Salt Bars,3.0,19.0,snacks,energy granola bars
+294,1492625,2,train,15,1,11,30.0,1757.0,30.0,0.0,Organic Cashew Carrot Ginger Soup,69.0,15.0,canned goods,soup broth bouillon
+295,1492625,2,train,15,1,11,30.0,21329.0,31.0,0.0,Organic Hearty Split Pea & Uncured Ham Soup,69.0,15.0,canned goods,soup broth bouillon
+296,1374495,3,prior,1,1,14,,9387.0,1.0,0.0,Granny Smith Apples,24.0,4.0,produce,fresh fruits
+297,1374495,3,prior,1,1,14,,17668.0,2.0,0.0,Unsweetened Chocolate Almond Breeze Almond Milk,91.0,16.0,dairy eggs,soy lactosefree
+298,1374495,3,prior,1,1,14,,15143.0,3.0,0.0,Blueberry Pint,24.0,4.0,produce,fresh fruits
+299,1374495,3,prior,1,1,14,,16797.0,4.0,0.0,Strawberries,24.0,4.0,produce,fresh fruits
+300,1374495,3,prior,1,1,14,,39190.0,5.0,0.0,Vanilla Unsweetened Almond Milk,91.0,16.0,dairy eggs,soy lactosefree
+301,1374495,3,prior,1,1,14,,47766.0,6.0,0.0,Organic Avocado,24.0,4.0,produce,fresh fruits
+302,1374495,3,prior,1,1,14,,21903.0,7.0,0.0,Organic Baby Spinach,123.0,4.0,produce,packaged vegetables fruits
+303,1374495,3,prior,1,1,14,,39922.0,8.0,0.0,Celery Sticks,123.0,4.0,produce,packaged vegetables fruits
+304,1374495,3,prior,1,1,14,,24810.0,9.0,0.0,Organic Lightly Salted Brown Rice Cakes,78.0,19.0,snacks,crackers
+305,1374495,3,prior,1,1,14,,32402.0,10.0,0.0,"Crackers, Crispy, Cheddar",78.0,19.0,snacks,crackers
+306,444309,3,prior,2,3,19,9.0,38596.0,1.0,0.0,Part Skim Ricotta Cheese,108.0,16.0,dairy eggs,other creams cheeses
+307,444309,3,prior,2,3,19,9.0,21903.0,2.0,1.0,Organic Baby Spinach,123.0,4.0,produce,packaged vegetables fruits
+308,444309,3,prior,2,3,19,9.0,248.0,3.0,0.0,Dried Sweetened Cranberries,117.0,19.0,snacks,nuts seeds dried fruit
+309,444309,3,prior,2,3,19,9.0,40604.0,4.0,0.0,Feta Cheese Crumbles,21.0,16.0,dairy eggs,packaged cheese
+310,444309,3,prior,2,3,19,9.0,8021.0,5.0,0.0,100% Recycled Paper Towels,54.0,17.0,household,paper goods
+311,444309,3,prior,2,3,19,9.0,17668.0,6.0,1.0,Unsweetened Chocolate Almond Breeze Almond Milk,91.0,16.0,dairy eggs,soy lactosefree
+312,444309,3,prior,2,3,19,9.0,21137.0,7.0,0.0,Organic Strawberries,24.0,4.0,produce,fresh fruits
+313,444309,3,prior,2,3,19,9.0,23650.0,8.0,0.0,Electrolyte Water,115.0,7.0,beverages,water seltzer sparkling water
+314,444309,3,prior,2,3,19,9.0,32402.0,9.0,1.0,"Crackers, Crispy, Cheddar",78.0,19.0,snacks,crackers
+315,3002854,3,prior,3,3,16,21.0,39190.0,1.0,1.0,Vanilla Unsweetened Almond Milk,91.0,16.0,dairy eggs,soy lactosefree
+316,3002854,3,prior,3,3,16,21.0,47766.0,2.0,1.0,Organic Avocado,24.0,4.0,produce,fresh fruits
+317,3002854,3,prior,3,3,16,21.0,21903.0,3.0,1.0,Organic Baby Spinach,123.0,4.0,produce,packaged vegetables fruits
+318,3002854,3,prior,3,3,16,21.0,49683.0,4.0,0.0,Cucumber Kirby,83.0,4.0,produce,fresh vegetables
+319,3002854,3,prior,3,3,16,21.0,28373.0,5.0,0.0,Original Rotisserie Chicken,13.0,20.0,deli,prepared meals
+320,3002854,3,prior,3,3,16,21.0,7503.0,6.0,0.0,Whole Almonds,117.0,19.0,snacks,nuts seeds dried fruit
+321,2037211,3,prior,4,2,18,20.0,1819.0,1.0,0.0,All Natural No Stir Creamy Almond Butter,88.0,13.0,pantry,spreads
+322,2037211,3,prior,4,2,18,20.0,12845.0,2.0,0.0,Chopped Walnuts,117.0,19.0,snacks,nuts seeds dried fruit
+323,2037211,3,prior,4,2,18,20.0,9387.0,3.0,1.0,Granny Smith Apples,24.0,4.0,produce,fresh fruits
+324,2037211,3,prior,4,2,18,20.0,16965.0,4.0,0.0,Chocolate Ice Cream,37.0,1.0,frozen,ice cream ice
+325,2037211,3,prior,4,2,18,20.0,24010.0,5.0,0.0,Wheat Gluten Free Waffles,52.0,1.0,frozen,frozen breakfast
+326,2710558,3,prior,5,0,17,12.0,39190.0,1.0,1.0,Vanilla Unsweetened Almond Milk,91.0,16.0,dairy eggs,soy lactosefree
+327,2710558,3,prior,5,0,17,12.0,9387.0,2.0,1.0,Granny Smith Apples,24.0,4.0,produce,fresh fruits
+328,2710558,3,prior,5,0,17,12.0,17668.0,3.0,1.0,Unsweetened Chocolate Almond Breeze Almond Milk,91.0,16.0,dairy eggs,soy lactosefree
+329,2710558,3,prior,5,0,17,12.0,47766.0,4.0,1.0,Organic Avocado,24.0,4.0,produce,fresh fruits
+330,2710558,3,prior,5,0,17,12.0,16965.0,5.0,1.0,Chocolate Ice Cream,37.0,1.0,frozen,ice cream ice
+331,2710558,3,prior,5,0,17,12.0,28373.0,6.0,1.0,Original Rotisserie Chicken,13.0,20.0,deli,prepared meals
+332,2710558,3,prior,5,0,17,12.0,21903.0,7.0,1.0,Organic Baby Spinach,123.0,4.0,produce,packaged vegetables fruits
+333,2710558,3,prior,5,0,17,12.0,22035.0,8.0,0.0,Organic Whole String Cheese,21.0,16.0,dairy eggs,packaged cheese
+334,2710558,3,prior,5,0,17,12.0,42265.0,9.0,0.0,Organic Baby Carrots,123.0,4.0,produce,packaged vegetables fruits
+335,2710558,3,prior,5,0,17,12.0,18370.0,10.0,0.0,Organic Shredded Mozzarella,21.0,16.0,dairy eggs,packaged cheese
+336,2710558,3,prior,5,0,17,12.0,44683.0,11.0,0.0,Brussels Sprouts,83.0,4.0,produce,fresh vegetables
+337,1972919,3,prior,6,0,16,7.0,22035.0,1.0,1.0,Organic Whole String Cheese,21.0,16.0,dairy eggs,packaged cheese
+338,1972919,3,prior,6,0,16,7.0,39190.0,2.0,1.0,Vanilla Unsweetened Almond Milk,91.0,16.0,dairy eggs,soy lactosefree
+339,1972919,3,prior,6,0,16,7.0,9387.0,3.0,1.0,Granny Smith Apples,24.0,4.0,produce,fresh fruits
+340,1972919,3,prior,6,0,16,7.0,47766.0,4.0,1.0,Organic Avocado,24.0,4.0,produce,fresh fruits
+341,1972919,3,prior,6,0,16,7.0,1819.0,5.0,1.0,All Natural No Stir Creamy Almond Butter,88.0,13.0,pantry,spreads
+342,1972919,3,prior,6,0,16,7.0,24810.0,6.0,1.0,Organic Lightly Salted Brown Rice Cakes,78.0,19.0,snacks,crackers
+343,1972919,3,prior,6,0,16,7.0,14992.0,7.0,0.0,Green Beans,83.0,4.0,produce,fresh vegetables
+344,1972919,3,prior,6,0,16,7.0,44683.0,8.0,1.0,Brussels Sprouts,83.0,4.0,produce,fresh vegetables
+345,1839752,3,prior,7,0,15,7.0,39190.0,1.0,1.0,Vanilla Unsweetened Almond Milk,91.0,16.0,dairy eggs,soy lactosefree
+346,1839752,3,prior,7,0,15,7.0,1819.0,2.0,1.0,All Natural No Stir Creamy Almond Butter,88.0,13.0,pantry,spreads
+347,1839752,3,prior,7,0,15,7.0,21903.0,3.0,1.0,Organic Baby Spinach,123.0,4.0,produce,packaged vegetables fruits
+348,1839752,3,prior,7,0,15,7.0,43961.0,4.0,0.0,Organic Peeled Whole Baby Carrots,123.0,4.0,produce,packaged vegetables fruits
+349,1839752,3,prior,7,0,15,7.0,16797.0,5.0,1.0,Strawberries,24.0,4.0,produce,fresh fruits
+350,1839752,3,prior,7,0,15,7.0,24010.0,6.0,1.0,Wheat Gluten Free Waffles,52.0,1.0,frozen,frozen breakfast
+351,1839752,3,prior,7,0,15,7.0,14992.0,7.0,1.0,Green Beans,83.0,4.0,produce,fresh vegetables
+352,1839752,3,prior,7,0,15,7.0,18599.0,8.0,0.0,Garlic Couscous,4.0,9.0,dry goods pasta,instant foods
+353,1839752,3,prior,7,0,15,7.0,9387.0,9.0,1.0,Granny Smith Apples,24.0,4.0,produce,fresh fruits
+354,3225766,3,prior,8,0,17,7.0,39190.0,1.0,1.0,Vanilla Unsweetened Almond Milk,91.0,16.0,dairy eggs,soy lactosefree
+355,3225766,3,prior,8,0,17,7.0,22035.0,2.0,1.0,Organic Whole String Cheese,21.0,16.0,dairy eggs,packaged cheese
+356,3225766,3,prior,8,0,17,7.0,43961.0,3.0,1.0,Organic Peeled Whole Baby Carrots,123.0,4.0,produce,packaged vegetables fruits
+357,3225766,3,prior,8,0,17,7.0,18599.0,4.0,1.0,Garlic Couscous,4.0,9.0,dry goods pasta,instant foods
+358,3225766,3,prior,8,0,17,7.0,21903.0,5.0,1.0,Organic Baby Spinach,123.0,4.0,produce,packaged vegetables fruits
+359,3225766,3,prior,8,0,17,7.0,47766.0,6.0,1.0,Organic Avocado,24.0,4.0,produce,fresh fruits
+360,3225766,3,prior,8,0,17,7.0,42557.0,7.0,0.0,Crunchy Almond Butter,88.0,13.0,pantry,spreads
+361,3225766,3,prior,8,0,17,7.0,48523.0,8.0,0.0,Birthday Cake Light Ice Cream,37.0,1.0,frozen,ice cream ice
+362,3160850,3,prior,9,0,16,7.0,39190.0,1.0,1.0,Vanilla Unsweetened Almond Milk,91.0,16.0,dairy eggs,soy lactosefree
+363,3160850,3,prior,9,0,16,7.0,47766.0,2.0,1.0,Organic Avocado,24.0,4.0,produce,fresh fruits
+364,3160850,3,prior,9,0,16,7.0,16797.0,3.0,1.0,Strawberries,24.0,4.0,produce,fresh fruits
+365,3160850,3,prior,9,0,16,7.0,43961.0,4.0,1.0,Organic Peeled Whole Baby Carrots,123.0,4.0,produce,packaged vegetables fruits
+366,3160850,3,prior,9,0,16,7.0,48523.0,5.0,1.0,Birthday Cake Light Ice Cream,37.0,1.0,frozen,ice cream ice
+367,676467,3,prior,10,3,16,17.0,18599.0,1.0,1.0,Garlic Couscous,4.0,9.0,dry goods pasta,instant foods
+368,676467,3,prior,10,3,16,17.0,17668.0,2.0,1.0,Unsweetened Chocolate Almond Breeze Almond Milk,91.0,16.0,dairy eggs,soy lactosefree
+369,676467,3,prior,10,3,16,17.0,47766.0,3.0,1.0,Organic Avocado,24.0,4.0,produce,fresh fruits
+370,676467,3,prior,10,3,16,17.0,39190.0,4.0,1.0,Vanilla Unsweetened Almond Milk,91.0,16.0,dairy eggs,soy lactosefree
+371,676467,3,prior,10,3,16,17.0,1005.0,5.0,0.0,China Green Tips Green Tea,94.0,7.0,beverages,tea
+372,676467,3,prior,10,3,16,17.0,32402.0,6.0,1.0,"Crackers, Crispy, Cheddar",78.0,19.0,snacks,crackers
+373,521107,3,prior,11,0,18,11.0,39190.0,1.0,1.0,Vanilla Unsweetened Almond Milk,91.0,16.0,dairy eggs,soy lactosefree
+374,521107,3,prior,11,0,18,11.0,47766.0,2.0,1.0,Organic Avocado,24.0,4.0,produce,fresh fruits
+375,521107,3,prior,11,0,18,11.0,21903.0,3.0,1.0,Organic Baby Spinach,123.0,4.0,produce,packaged vegetables fruits
+376,521107,3,prior,11,0,18,11.0,43961.0,4.0,1.0,Organic Peeled Whole Baby Carrots,123.0,4.0,produce,packaged vegetables fruits
+377,521107,3,prior,11,0,18,11.0,17668.0,5.0,1.0,Unsweetened Chocolate Almond Breeze Almond Milk,91.0,16.0,dairy eggs,soy lactosefree
+378,1402502,3,prior,12,1,15,15.0,39190.0,1.0,1.0,Vanilla Unsweetened Almond Milk,91.0,16.0,dairy eggs,soy lactosefree
+379,1402502,3,prior,12,1,15,15.0,18599.0,2.0,1.0,Garlic Couscous,4.0,9.0,dry goods pasta,instant foods
+380,1402502,3,prior,12,1,15,15.0,23650.0,3.0,1.0,Electrolyte Water,115.0,7.0,beverages,water seltzer sparkling water
+381,1402502,3,prior,12,1,15,15.0,21903.0,4.0,1.0,Organic Baby Spinach,123.0,4.0,produce,packaged vegetables fruits
+382,1402502,3,prior,12,1,15,15.0,47766.0,5.0,1.0,Organic Avocado,24.0,4.0,produce,fresh fruits
+383,1402502,3,prior,12,1,15,15.0,24810.0,6.0,1.0,Organic Lightly Salted Brown Rice Cakes,78.0,19.0,snacks,crackers
+384,2774568,3,test,13,5,15,11.0,,,,,,,,
+385,3343014,4,prior,1,6,11,,36606.0,1.0,0.0,Sprouted Multi-Grain Bread,112.0,3.0,bakery,bread
+386,3343014,4,prior,1,6,11,,7350.0,2.0,0.0,Natural Lime Flavor Sparkling Mineral Water,115.0,7.0,beverages,water seltzer sparkling water
+387,3343014,4,prior,1,6,11,,35469.0,3.0,0.0,Enchilada Black Bean Vegetable,38.0,1.0,frozen,frozen meals
+388,3343014,4,prior,1,6,11,,2707.0,4.0,0.0,Complete™ ActionPacs™ Fresh Scent Dishwasher Detergent,74.0,17.0,household,dish detergents
+389,2030307,4,prior,2,4,11,19.0,42329.0,1.0,0.0,Private Selection Pinot Noir,28.0,5.0,alcohol,red wines
+390,2030307,4,prior,2,4,11,19.0,7160.0,2.0,0.0,Clear Cups,111.0,17.0,household,plates bowls cups flatware
+391,691089,4,prior,3,4,15,21.0,1200.0,1.0,0.0,Vegetable Classics Vegetable Soup,69.0,15.0,canned goods,soup broth bouillon
+392,691089,4,prior,3,4,15,21.0,17769.0,2.0,0.0,Diet Caffeine Free Naturally Flavored Lemon Lime Soda,77.0,7.0,beverages,soft drinks
+393,691089,4,prior,3,4,15,21.0,43704.0,3.0,0.0,Low Carb Whole Wheat Tortillas,128.0,3.0,bakery,tortillas flat bread
+394,691089,4,prior,3,4,15,21.0,37646.0,4.0,0.0,Organic Gala Apples,24.0,4.0,produce,fresh fruits
+395,691089,4,prior,3,4,15,21.0,11865.0,5.0,0.0,Light & Lean Spaghetti Italiano with Meatless Meatballs,38.0,1.0,frozen,frozen meals
+396,691089,4,prior,3,4,15,21.0,35469.0,6.0,1.0,Enchilada Black Bean Vegetable,38.0,1.0,frozen,frozen meals
+397,691089,4,prior,3,4,15,21.0,19057.0,7.0,0.0,Organic Large Extra Fancy Fuji Apple,24.0,4.0,produce,fresh fruits
+398,94891,4,prior,4,5,13,15.0,22199.0,1.0,0.0,Extra-Dry Cava,134.0,5.0,alcohol,specialty wines champagnes
+399,94891,4,prior,4,5,13,15.0,25146.0,2.0,0.0,Original Orange Juice,31.0,7.0,beverages,refrigerated
+400,2557754,4,prior,5,5,13,0.0,26576.0,1.0,0.0,Yellow Corn Tortilla Chips,107.0,19.0,snacks,chips pretzels
+401,2557754,4,prior,5,5,13,0.0,25623.0,2.0,0.0,Real Guacamole,67.0,20.0,deli,fresh dips tapenades
+402,2557754,4,prior,5,5,13,0.0,21573.0,3.0,0.0,Roasted Pine Nut Hummus,67.0,20.0,deli,fresh dips tapenades
+403,329954,4,test,6,3,12,30.0,,,,,,,,
+404,2717275,5,prior,1,3,12,,15349.0,1.0,0.0,Organic Raw Agave Nectar,29.0,13.0,pantry,honeys syrups nectars
+405,2717275,5,prior,1,3,12,,21413.0,2.0,0.0,Organic Soba,66.0,6.0,international,asian foods
+406,2717275,5,prior,1,3,12,,48775.0,3.0,0.0,Organic Red Cabbage,83.0,4.0,produce,fresh vegetables
+407,2717275,5,prior,1,3,12,,28289.0,4.0,0.0,Organic Shredded Carrots,123.0,4.0,produce,packaged vegetables fruits
+408,2717275,5,prior,1,3,12,,8518.0,5.0,0.0,Organic Red Onion,83.0,4.0,produce,fresh vegetables
+409,2717275,5,prior,1,3,12,,11777.0,6.0,0.0,Red Raspberries,123.0,4.0,produce,packaged vegetables fruits
+410,2717275,5,prior,1,3,12,,31717.0,7.0,0.0,Organic Cilantro,16.0,4.0,produce,fresh herbs
+411,2717275,5,prior,1,3,12,,26604.0,8.0,0.0,Organic Blackberries,24.0,4.0,produce,fresh fruits
+412,2717275,5,prior,1,3,12,,43693.0,9.0,0.0,Whole Vitamin D Milk,84.0,16.0,dairy eggs,milk
+413,2717275,5,prior,1,3,12,,22475.0,10.0,0.0,Jicama,83.0,4.0,produce,fresh vegetables
+414,2717275,5,prior,1,3,12,,24535.0,11.0,0.0,Plain Whole Milk Yogurt,120.0,16.0,dairy eggs,yogurt
+415,1909121,5,prior,2,0,16,11.0,43693.0,1.0,1.0,Whole Vitamin D Milk,84.0,16.0,dairy eggs,milk
+416,1909121,5,prior,2,0,16,11.0,6808.0,2.0,0.0,Organic Spinach & Cheese Tortellini,12.0,9.0,dry goods pasta,fresh pasta
+417,1909121,5,prior,2,0,16,11.0,24535.0,3.0,1.0,Plain Whole Milk Yogurt,120.0,16.0,dairy eggs,yogurt
+418,1909121,5,prior,2,0,16,11.0,11777.0,4.0,1.0,Red Raspberries,123.0,4.0,produce,packaged vegetables fruits
+419,1909121,5,prior,2,0,16,11.0,21616.0,5.0,0.0,Organic Baby Arugula,123.0,4.0,produce,packaged vegetables fruits
+420,1909121,5,prior,2,0,16,11.0,18761.0,6.0,0.0,Balsamic Vinegar Of Modena,19.0,13.0,pantry,oils vinegars
+421,1909121,5,prior,2,0,16,11.0,26604.0,7.0,1.0,Organic Blackberries,24.0,4.0,produce,fresh fruits
+422,1909121,5,prior,2,0,16,11.0,13870.0,8.0,0.0,Lightly Salted Baked Snap Pea Crisps,107.0,19.0,snacks,chips pretzels
+423,1909121,5,prior,2,0,16,11.0,13988.0,9.0,0.0,Snow Peas,83.0,4.0,produce,fresh vegetables
+424,2267326,5,prior,3,3,18,10.0,26604.0,1.0,1.0,Organic Blackberries,24.0,4.0,produce,fresh fruits
+425,2267326,5,prior,3,3,18,10.0,11777.0,2.0,1.0,Red Raspberries,123.0,4.0,produce,packaged vegetables fruits
+426,2267326,5,prior,3,3,18,10.0,20754.0,3.0,0.0,Mediterranean Mint Gelato,37.0,1.0,frozen,ice cream ice
+427,2267326,5,prior,3,3,18,10.0,24231.0,4.0,0.0,Tahitian Vanilla Bean Gelato,37.0,1.0,frozen,ice cream ice
+428,2267326,5,prior,3,3,18,10.0,40706.0,5.0,0.0,Organic Grape Tomatoes,123.0,4.0,produce,packaged vegetables fruits
+429,157374,5,prior,4,1,18,19.0,27344.0,1.0,0.0,Uncured Genoa Salami,96.0,20.0,deli,lunch meat
+430,157374,5,prior,4,1,18,19.0,24535.0,2.0,1.0,Plain Whole Milk Yogurt,120.0,16.0,dairy eggs,yogurt
+431,157374,5,prior,4,1,18,19.0,43693.0,3.0,1.0,Whole Vitamin D Milk,84.0,16.0,dairy eggs,milk
+432,157374,5,prior,4,1,18,19.0,40706.0,4.0,1.0,Organic Grape Tomatoes,123.0,4.0,produce,packaged vegetables fruits
+433,157374,5,prior,4,1,18,19.0,16168.0,5.0,0.0,Large Organic Omega3 Brown Eggs,86.0,16.0,dairy eggs,eggs
+434,157374,5,prior,4,1,18,19.0,21413.0,6.0,1.0,Organic Soba,66.0,6.0,international,asian foods
+435,157374,5,prior,4,1,18,19.0,13988.0,7.0,1.0,Snow Peas,83.0,4.0,produce,fresh vegetables
+436,157374,5,prior,4,1,18,19.0,3376.0,8.0,0.0,Organic Whole Kernel Sweet Corn No Salt Added,81.0,15.0,canned goods,canned jarred vegetables
+437,157374,5,prior,4,1,18,19.0,8518.0,9.0,1.0,Organic Red Onion,83.0,4.0,produce,fresh vegetables
+438,157374,5,prior,4,1,18,19.0,26604.0,10.0,1.0,Organic Blackberries,24.0,4.0,produce,fresh fruits
+439,157374,5,prior,4,1,18,19.0,11777.0,11.0,1.0,Red Raspberries,123.0,4.0,produce,packaged vegetables fruits
+440,157374,5,prior,4,1,18,19.0,5999.0,12.0,0.0,"Semi-Soft Cheese, Ripened",21.0,16.0,dairy eggs,packaged cheese
+441,2196797,5,train,5,0,11,6.0,15349.0,1.0,1.0,Organic Raw Agave Nectar,29.0,13.0,pantry,honeys syrups nectars
+442,2196797,5,train,5,0,11,6.0,19057.0,2.0,0.0,Organic Large Extra Fancy Fuji Apple,24.0,4.0,produce,fresh fruits
+443,2196797,5,train,5,0,11,6.0,16185.0,3.0,0.0,Sharp Cheddar Cheese,21.0,16.0,dairy eggs,packaged cheese
+444,2196797,5,train,5,0,11,6.0,21413.0,4.0,1.0,Organic Soba,66.0,6.0,international,asian foods
+445,2196797,5,train,5,0,11,6.0,20843.0,5.0,0.0,100% Pure Eucalyptus Essential Oil,101.0,17.0,household,air fresheners candles
+446,2196797,5,train,5,0,11,6.0,20114.0,6.0,0.0,Jalapeno Peppers,83.0,4.0,produce,fresh vegetables
+447,2196797,5,train,5,0,11,6.0,48204.0,7.0,0.0,Tamari Gluten Free Soy Sauce,66.0,6.0,international,asian foods
+448,2196797,5,train,5,0,11,6.0,40706.0,8.0,1.0,Organic Grape Tomatoes,123.0,4.0,produce,packaged vegetables fruits
+449,2196797,5,train,5,0,11,6.0,21616.0,9.0,1.0,Organic Baby Arugula,123.0,4.0,produce,packaged vegetables fruits
+450,2086598,6,prior,1,5,18,,27521.0,1.0,0.0,Organic Lacinato (Dinosaur) Kale,83.0,4.0,produce,fresh vegetables
+451,2086598,6,prior,1,5,18,,38293.0,2.0,0.0,Ground Turkey Breast,35.0,12.0,meat seafood,poultry counter
+452,2086598,6,prior,1,5,18,,21903.0,3.0,0.0,Organic Baby Spinach,123.0,4.0,produce,packaged vegetables fruits
+453,2086598,6,prior,1,5,18,,48679.0,4.0,0.0,Organic Garnet Sweet Potato (Yam),83.0,4.0,produce,fresh vegetables
+454,298250,6,prior,2,4,16,6.0,38293.0,1.0,1.0,Ground Turkey Breast,35.0,12.0,meat seafood,poultry counter
+455,298250,6,prior,2,4,16,6.0,20323.0,2.0,0.0,Strained Tomatoes,81.0,15.0,canned goods,canned jarred vegetables
+456,298250,6,prior,2,4,16,6.0,40992.0,3.0,0.0,Chopped Tomatoes,81.0,15.0,canned goods,canned jarred vegetables
+457,298250,6,prior,2,4,16,6.0,21903.0,4.0,1.0,Organic Baby Spinach,123.0,4.0,produce,packaged vegetables fruits
+458,298250,6,prior,2,4,16,6.0,45007.0,5.0,0.0,Organic Zucchini,83.0,4.0,produce,fresh vegetables
+459,298250,6,prior,2,4,16,6.0,11068.0,6.0,0.0,Medium Cheddar Cheese Block,21.0,16.0,dairy eggs,packaged cheese
+460,298250,6,prior,2,4,16,6.0,10644.0,7.0,0.0,Italian Extra Virgin Olive Oil,19.0,13.0,pantry,oils vinegars
+461,998866,6,prior,3,2,18,12.0,49401.0,1.0,0.0,"Chicken Base, Organic",69.0,15.0,canned goods,soup broth bouillon
+462,998866,6,prior,3,2,18,12.0,25659.0,2.0,0.0,Organic Coconut Milk,91.0,16.0,dairy eggs,soy lactosefree
+463,998866,6,prior,3,2,18,12.0,8424.0,3.0,0.0,Broccoli Crown,83.0,4.0,produce,fresh vegetables
+464,1528013,6,test,4,3,16,22.0,,,,,,,,
+465,2565571,7,prior,1,3,9,,45628.0,1.0,0.0,Mango Rosewater Lassi Yogurt Drink,120.0,16.0,dairy eggs,yogurt
+466,2565571,7,prior,1,3,9,,39275.0,2.0,0.0,Organic Blueberries,123.0,4.0,produce,packaged vegetables fruits
+467,2565571,7,prior,1,3,9,,6361.0,3.0,0.0,Soft Potato Bread,112.0,3.0,bakery,bread
+468,2565571,7,prior,1,3,9,,45066.0,4.0,0.0,Honeycrisp Apple,24.0,4.0,produce,fresh fruits
+469,2565571,7,prior,1,3,9,,13249.0,5.0,0.0,Skim Milk,84.0,16.0,dairy eggs,milk
+470,2565571,7,prior,1,3,9,,31683.0,6.0,0.0,Original No Pulp 100% Florida Orange Juice,31.0,7.0,beverages,refrigerated
+471,2565571,7,prior,1,3,9,,519.0,7.0,0.0,Antioxidant Infusions Brasilia Blueberry,31.0,7.0,beverages,refrigerated
+472,2565571,7,prior,1,3,9,,37999.0,8.0,0.0,Antioxidant Infusions Ipanema Pomegranate Beverage,31.0,7.0,beverages,refrigerated
+473,2565571,7,prior,1,3,9,,49508.0,9.0,0.0,Antioxidant Infusions Costa Rica Clementine,31.0,7.0,beverages,refrigerated
+474,2565571,7,prior,1,3,9,,29871.0,10.0,0.0,Organic Roast Beef,96.0,20.0,deli,lunch meat
+475,2565571,7,prior,1,3,9,,22963.0,11.0,0.0,Organic Roasted Turkey Breast,96.0,20.0,deli,lunch meat
+476,2565571,7,prior,1,3,9,,14332.0,12.0,0.0,Organic Yellow Mustard,72.0,13.0,pantry,condiments
+477,2402008,7,prior,2,1,19,30.0,4920.0,1.0,0.0,Seedless Red Grapes,123.0,4.0,produce,packaged vegetables fruits
+478,2402008,7,prior,2,1,19,30.0,37602.0,2.0,0.0,Mexican Coffee,26.0,7.0,beverages,coffee
+479,2402008,7,prior,2,1,19,30.0,29871.0,3.0,1.0,Organic Roast Beef,96.0,20.0,deli,lunch meat
+480,2402008,7,prior,2,1,19,30.0,22963.0,4.0,1.0,Organic Roasted Turkey Breast,96.0,20.0,deli,lunch meat
+481,2402008,7,prior,2,1,19,30.0,19019.0,5.0,0.0,Uncured Slow Cooked Ham,96.0,20.0,deli,lunch meat
+482,2402008,7,prior,2,1,19,30.0,6361.0,6.0,1.0,Soft Potato Bread,112.0,3.0,bakery,bread
+483,2402008,7,prior,2,1,19,30.0,31683.0,7.0,1.0,Original No Pulp 100% Florida Orange Juice,31.0,7.0,beverages,refrigerated
+484,2402008,7,prior,2,1,19,30.0,17638.0,8.0,0.0,Vanilla Coffee Concentrate,26.0,7.0,beverages,coffee
+485,2402008,7,prior,2,1,19,30.0,40852.0,9.0,0.0,Lactose Free Fat Free Milk,91.0,16.0,dairy eggs,soy lactosefree
+486,2402008,7,prior,2,1,19,30.0,27690.0,10.0,0.0,Apple Cinnamon GoGo Squeez,50.0,19.0,snacks,fruit vegetable snacks
+487,2402008,7,prior,2,1,19,30.0,9598.0,11.0,0.0,Gogo Squeez Organic Apple Strawberry Applesauce on the Go,99.0,15.0,canned goods,canned fruit applesauce
+488,2402008,7,prior,2,1,19,30.0,15581.0,12.0,0.0,Boom Chicka Pop Candy Corn Flavored Kettle Corn,23.0,19.0,snacks,popcorn jerky
+489,2402008,7,prior,2,1,19,30.0,45537.0,13.0,0.0,Classic Round Crackers,78.0,19.0,snacks,crackers
+490,2402008,7,prior,2,1,19,30.0,13198.0,14.0,0.0,85% Lean Ground Beef,122.0,12.0,meat seafood,meat counter
+491,2402008,7,prior,2,1,19,30.0,8518.0,15.0,0.0,Organic Red Onion,83.0,4.0,produce,fresh vegetables
+492,2402008,7,prior,2,1,19,30.0,274.0,16.0,0.0,Snack Bags,87.0,17.0,household,more household
+493,2402008,7,prior,2,1,19,30.0,43967.0,17.0,0.0,Raspberry Lemonade,31.0,7.0,beverages,refrigerated
+494,2402008,7,prior,2,1,19,30.0,42803.0,18.0,0.0,Organic Apple Slices,50.0,19.0,snacks,fruit vegetable snacks
+495,2402008,7,prior,2,1,19,30.0,30391.0,19.0,0.0,Organic Cucumber,83.0,4.0,produce,fresh vegetables
+496,2402008,7,prior,2,1,19,30.0,19678.0,20.0,0.0,Organic Russet Potato,83.0,4.0,produce,fresh vegetables
+497,2402008,7,prior,2,1,19,30.0,31343.0,21.0,0.0,Shredded Mild Cheddar Cheese,21.0,16.0,dairy eggs,packaged cheese
+498,121053,7,prior,3,0,18,30.0,10895.0,1.0,0.0,Mexican Finely Shredded Cheese,21.0,16.0,dairy eggs,packaged cheese
+499,121053,7,prior,3,0,18,30.0,14267.0,2.0,0.0,Organic Refried Black Beans,59.0,15.0,canned goods,canned meals beans
+500,121053,7,prior,3,0,18,30.0,39121.0,3.0,0.0,Organic Jasmine Rice,38.0,1.0,frozen,frozen meals
+501,121053,7,prior,3,0,18,30.0,42828.0,4.0,0.0,Whipped Cream Cheese,108.0,16.0,dairy eggs,other creams cheeses
+502,121053,7,prior,3,0,18,30.0,45066.0,5.0,1.0,Honeycrisp Apple,24.0,4.0,produce,fresh fruits
+503,121053,7,prior,3,0,18,30.0,37999.0,6.0,1.0,Antioxidant Infusions Ipanema Pomegranate Beverage,31.0,7.0,beverages,refrigerated
+504,121053,7,prior,3,0,18,30.0,45628.0,7.0,1.0,Mango Rosewater Lassi Yogurt Drink,120.0,16.0,dairy eggs,yogurt
+505,121053,7,prior,3,0,18,30.0,37602.0,8.0,1.0,Mexican Coffee,26.0,7.0,beverages,coffee
+506,121053,7,prior,3,0,18,30.0,29871.0,9.0,1.0,Organic Roast Beef,96.0,20.0,deli,lunch meat
+507,121053,7,prior,3,0,18,30.0,22963.0,10.0,1.0,Organic Roasted Turkey Breast,96.0,20.0,deli,lunch meat
+508,121053,7,prior,3,0,18,30.0,19019.0,11.0,1.0,Uncured Slow Cooked Ham,96.0,20.0,deli,lunch meat
+509,121053,7,prior,3,0,18,30.0,6361.0,12.0,1.0,Soft Potato Bread,112.0,3.0,bakery,bread
+510,121053,7,prior,3,0,18,30.0,31683.0,13.0,1.0,Original No Pulp 100% Florida Orange Juice,31.0,7.0,beverages,refrigerated
+511,121053,7,prior,3,0,18,30.0,519.0,14.0,1.0,Antioxidant Infusions Brasilia Blueberry,31.0,7.0,beverages,refrigerated
+512,121053,7,prior,3,0,18,30.0,49508.0,15.0,1.0,Antioxidant Infusions Costa Rica Clementine,31.0,7.0,beverages,refrigerated
+513,121053,7,prior,3,0,18,30.0,17638.0,16.0,1.0,Vanilla Coffee Concentrate,26.0,7.0,beverages,coffee
+514,121053,7,prior,3,0,18,30.0,40852.0,17.0,1.0,Lactose Free Fat Free Milk,91.0,16.0,dairy eggs,soy lactosefree
+515,121053,7,prior,3,0,18,30.0,27690.0,18.0,1.0,Apple Cinnamon GoGo Squeez,50.0,19.0,snacks,fruit vegetable snacks
+516,121053,7,prior,3,0,18,30.0,9598.0,19.0,1.0,Gogo Squeez Organic Apple Strawberry Applesauce on the Go,99.0,15.0,canned goods,canned fruit applesauce
+517,121053,7,prior,3,0,18,30.0,15581.0,20.0,1.0,Boom Chicka Pop Candy Corn Flavored Kettle Corn,23.0,19.0,snacks,popcorn jerky
+518,121053,7,prior,3,0,18,30.0,45537.0,21.0,1.0,Classic Round Crackers,78.0,19.0,snacks,crackers
+519,121053,7,prior,3,0,18,30.0,13198.0,22.0,1.0,85% Lean Ground Beef,122.0,12.0,meat seafood,meat counter
+520,121053,7,prior,3,0,18,30.0,43967.0,23.0,1.0,Raspberry Lemonade,31.0,7.0,beverages,refrigerated
+521,121053,7,prior,3,0,18,30.0,30391.0,24.0,1.0,Organic Cucumber,83.0,4.0,produce,fresh vegetables
+522,1695742,7,prior,4,2,10,9.0,47272.0,1.0,0.0,Antioxidant Infusions Beverage Malawi Mango,31.0,7.0,beverages,refrigerated
+523,1695742,7,prior,4,2,10,9.0,29993.0,2.0,0.0,Organic Low Fat Chocolate Milk,84.0,16.0,dairy eggs,milk
+524,1695742,7,prior,4,2,10,9.0,21137.0,3.0,0.0,Organic Strawberries,24.0,4.0,produce,fresh fruits
+525,1695742,7,prior,4,2,10,9.0,13802.0,4.0,0.0,Salted Sweet Cream Butter,36.0,16.0,dairy eggs,butter
+526,1695742,7,prior,4,2,10,9.0,37999.0,5.0,1.0,Antioxidant Infusions Ipanema Pomegranate Beverage,31.0,7.0,beverages,refrigerated
+527,1695742,7,prior,4,2,10,9.0,14332.0,6.0,1.0,Organic Yellow Mustard,72.0,13.0,pantry,condiments
+528,1695742,7,prior,4,2,10,9.0,37602.0,7.0,1.0,Mexican Coffee,26.0,7.0,beverages,coffee
+529,1695742,7,prior,4,2,10,9.0,6361.0,8.0,1.0,Soft Potato Bread,112.0,3.0,bakery,bread
+530,1695742,7,prior,4,2,10,9.0,31683.0,9.0,1.0,Original No Pulp 100% Florida Orange Juice,31.0,7.0,beverages,refrigerated
+531,1695742,7,prior,4,2,10,9.0,17638.0,10.0,1.0,Vanilla Coffee Concentrate,26.0,7.0,beverages,coffee
+532,1695742,7,prior,4,2,10,9.0,40852.0,11.0,1.0,Lactose Free Fat Free Milk,91.0,16.0,dairy eggs,soy lactosefree
+533,1695742,7,prior,4,2,10,9.0,27690.0,12.0,1.0,Apple Cinnamon GoGo Squeez,50.0,19.0,snacks,fruit vegetable snacks
+534,1695742,7,prior,4,2,10,9.0,13198.0,13.0,1.0,85% Lean Ground Beef,122.0,12.0,meat seafood,meat counter
+535,1695742,7,prior,4,2,10,9.0,43967.0,14.0,1.0,Raspberry Lemonade,31.0,7.0,beverages,refrigerated
+536,1695742,7,prior,4,2,10,9.0,42803.0,15.0,1.0,Organic Apple Slices,50.0,19.0,snacks,fruit vegetable snacks
+537,1695742,7,prior,4,2,10,9.0,19678.0,16.0,1.0,Organic Russet Potato,83.0,4.0,produce,fresh vegetables
+538,3321109,7,prior,5,5,18,3.0,47272.0,1.0,1.0,Antioxidant Infusions Beverage Malawi Mango,31.0,7.0,beverages,refrigerated
+539,3321109,7,prior,5,5,18,3.0,49235.0,2.0,0.0,Organic Half & Half,53.0,16.0,dairy eggs,cream
+540,3321109,7,prior,5,5,18,3.0,21137.0,3.0,1.0,Organic Strawberries,24.0,4.0,produce,fresh fruits
+541,3321109,7,prior,5,5,18,3.0,37999.0,4.0,1.0,Antioxidant Infusions Ipanema Pomegranate Beverage,31.0,7.0,beverages,refrigerated
+542,3321109,7,prior,5,5,18,3.0,37602.0,5.0,1.0,Mexican Coffee,26.0,7.0,beverages,coffee
+543,3321109,7,prior,5,5,18,3.0,19019.0,6.0,1.0,Uncured Slow Cooked Ham,96.0,20.0,deli,lunch meat
+544,3321109,7,prior,5,5,18,3.0,6361.0,7.0,1.0,Soft Potato Bread,112.0,3.0,bakery,bread
+545,3321109,7,prior,5,5,18,3.0,17638.0,8.0,1.0,Vanilla Coffee Concentrate,26.0,7.0,beverages,coffee
+546,3321109,7,prior,5,5,18,3.0,40852.0,9.0,1.0,Lactose Free Fat Free Milk,91.0,16.0,dairy eggs,soy lactosefree
+547,3321109,7,prior,5,5,18,3.0,42803.0,10.0,1.0,Organic Apple Slices,50.0,19.0,snacks,fruit vegetable snacks
+548,1682003,7,prior,6,1,18,10.0,26346.0,1.0,0.0,Organic Skim Milk,84.0,16.0,dairy eggs,milk
+549,1682003,7,prior,6,1,18,10.0,21137.0,2.0,1.0,Organic Strawberries,24.0,4.0,produce,fresh fruits
+550,1682003,7,prior,6,1,18,10.0,42803.0,3.0,1.0,Organic Apple Slices,50.0,19.0,snacks,fruit vegetable snacks
+551,1014379,7,prior,7,1,15,7.0,8518.0,1.0,1.0,Organic Red Onion,83.0,4.0,produce,fresh vegetables
+552,776265,7,prior,8,2,12,8.0,10895.0,1.0,1.0,Mexican Finely Shredded Cheese,21.0,16.0,dairy eggs,packaged cheese
+553,776265,7,prior,8,2,12,8.0,39275.0,2.0,1.0,Organic Blueberries,123.0,4.0,produce,packaged vegetables fruits
+554,776265,7,prior,8,2,12,8.0,37602.0,3.0,1.0,Mexican Coffee,26.0,7.0,beverages,coffee
+555,776265,7,prior,8,2,12,8.0,31683.0,4.0,1.0,Original No Pulp 100% Florida Orange Juice,31.0,7.0,beverages,refrigerated
+556,776265,7,prior,8,2,12,8.0,17638.0,5.0,1.0,Vanilla Coffee Concentrate,26.0,7.0,beverages,coffee
+557,776265,7,prior,8,2,12,8.0,13198.0,6.0,1.0,85% Lean Ground Beef,122.0,12.0,meat seafood,meat counter
+558,776265,7,prior,8,2,12,8.0,43967.0,7.0,1.0,Raspberry Lemonade,31.0,7.0,beverages,refrigerated
+559,776265,7,prior,8,2,12,8.0,42803.0,8.0,1.0,Organic Apple Slices,50.0,19.0,snacks,fruit vegetable snacks
+560,2507052,7,prior,9,6,7,4.0,29993.0,1.0,1.0,Organic Low Fat Chocolate Milk,84.0,16.0,dairy eggs,milk
+561,2507052,7,prior,9,6,7,4.0,39121.0,2.0,1.0,Organic Jasmine Rice,38.0,1.0,frozen,frozen meals
+562,2507052,7,prior,9,6,7,4.0,45628.0,3.0,1.0,Mango Rosewater Lassi Yogurt Drink,120.0,16.0,dairy eggs,yogurt
+563,2507052,7,prior,9,6,7,4.0,39275.0,4.0,1.0,Organic Blueberries,123.0,4.0,produce,packaged vegetables fruits
+564,2507052,7,prior,9,6,7,4.0,4920.0,5.0,1.0,Seedless Red Grapes,123.0,4.0,produce,packaged vegetables fruits
+565,2507052,7,prior,9,6,7,4.0,37602.0,6.0,1.0,Mexican Coffee,26.0,7.0,beverages,coffee
+566,2507052,7,prior,9,6,7,4.0,31683.0,7.0,1.0,Original No Pulp 100% Florida Orange Juice,31.0,7.0,beverages,refrigerated
+567,2507052,7,prior,9,6,7,4.0,40852.0,8.0,1.0,Lactose Free Fat Free Milk,91.0,16.0,dairy eggs,soy lactosefree
+568,2507052,7,prior,9,6,7,4.0,45537.0,9.0,1.0,Classic Round Crackers,78.0,19.0,snacks,crackers
+569,2507052,7,prior,9,6,7,4.0,30391.0,10.0,1.0,Organic Cucumber,83.0,4.0,produce,fresh vegetables
+570,1396119,7,prior,10,1,20,9.0,10895.0,1.0,1.0,Mexican Finely Shredded Cheese,21.0,16.0,dairy eggs,packaged cheese
+571,1396119,7,prior,10,1,20,9.0,45628.0,2.0,1.0,Mango Rosewater Lassi Yogurt Drink,120.0,16.0,dairy eggs,yogurt
+572,1396119,7,prior,10,1,20,9.0,4920.0,3.0,1.0,Seedless Red Grapes,123.0,4.0,produce,packaged vegetables fruits
+573,1396119,7,prior,10,1,20,9.0,17638.0,4.0,1.0,Vanilla Coffee Concentrate,26.0,7.0,beverages,coffee
+574,1396119,7,prior,10,1,20,9.0,40852.0,5.0,1.0,Lactose Free Fat Free Milk,91.0,16.0,dairy eggs,soy lactosefree
+575,1396119,7,prior,10,1,20,9.0,43967.0,6.0,1.0,Raspberry Lemonade,31.0,7.0,beverages,refrigerated
+576,1396119,7,prior,10,1,20,9.0,30391.0,7.0,1.0,Organic Cucumber,83.0,4.0,produce,fresh vegetables
+577,565870,7,prior,11,0,15,6.0,21137.0,1.0,1.0,Organic Strawberries,24.0,4.0,produce,fresh fruits
+578,565870,7,prior,11,0,15,6.0,45628.0,2.0,1.0,Mango Rosewater Lassi Yogurt Drink,120.0,16.0,dairy eggs,yogurt
+579,565870,7,prior,11,0,15,6.0,4920.0,3.0,1.0,Seedless Red Grapes,123.0,4.0,produce,packaged vegetables fruits
+580,565870,7,prior,11,0,15,6.0,37602.0,4.0,1.0,Mexican Coffee,26.0,7.0,beverages,coffee
+581,565870,7,prior,11,0,15,6.0,31683.0,5.0,1.0,Original No Pulp 100% Florida Orange Juice,31.0,7.0,beverages,refrigerated
+582,565870,7,prior,11,0,15,6.0,17638.0,6.0,1.0,Vanilla Coffee Concentrate,26.0,7.0,beverages,coffee
+583,565870,7,prior,11,0,15,6.0,40852.0,7.0,1.0,Lactose Free Fat Free Milk,91.0,16.0,dairy eggs,soy lactosefree
+584,565870,7,prior,11,0,15,6.0,13198.0,8.0,1.0,85% Lean Ground Beef,122.0,12.0,meat seafood,meat counter
+585,565870,7,prior,11,0,15,6.0,42803.0,9.0,1.0,Organic Apple Slices,50.0,19.0,snacks,fruit vegetable snacks
+586,3239072,7,prior,12,0,14,7.0,39121.0,1.0,1.0,Organic Jasmine Rice,38.0,1.0,frozen,frozen meals
+587,3239072,7,prior,12,0,14,7.0,17638.0,2.0,1.0,Vanilla Coffee Concentrate,26.0,7.0,beverages,coffee
+588,3239072,7,prior,12,0,14,7.0,40852.0,3.0,1.0,Lactose Free Fat Free Milk,91.0,16.0,dairy eggs,soy lactosefree
+589,3239072,7,prior,12,0,14,7.0,31343.0,4.0,1.0,Shredded Mild Cheddar Cheese,21.0,16.0,dairy eggs,packaged cheese
+590,1175028,7,prior,13,5,15,5.0,21137.0,1.0,1.0,Organic Strawberries,24.0,4.0,produce,fresh fruits
+591,1175028,7,prior,13,5,15,5.0,39275.0,2.0,1.0,Organic Blueberries,123.0,4.0,produce,packaged vegetables fruits
+592,1175028,7,prior,13,5,15,5.0,37602.0,3.0,1.0,Mexican Coffee,26.0,7.0,beverages,coffee
+593,1175028,7,prior,13,5,15,5.0,8277.0,4.0,0.0,Apple Honeycrisp Organic,24.0,4.0,produce,fresh fruits
+594,1175028,7,prior,13,5,15,5.0,17638.0,5.0,1.0,Vanilla Coffee Concentrate,26.0,7.0,beverages,coffee
+595,1175028,7,prior,13,5,15,5.0,40852.0,6.0,1.0,Lactose Free Fat Free Milk,91.0,16.0,dairy eggs,soy lactosefree
+596,1175028,7,prior,13,5,15,5.0,13198.0,7.0,1.0,85% Lean Ground Beef,122.0,12.0,meat seafood,meat counter
+597,1175028,7,prior,13,5,15,5.0,43967.0,8.0,1.0,Raspberry Lemonade,31.0,7.0,beverages,refrigerated
+598,1175028,7,prior,13,5,15,5.0,30391.0,9.0,1.0,Organic Cucumber,83.0,4.0,produce,fresh vegetables
+599,3060817,7,prior,14,1,13,17.0,21137.0,1.0,1.0,Organic Strawberries,24.0,4.0,produce,fresh fruits
+600,3060817,7,prior,14,1,13,17.0,37602.0,2.0,1.0,Mexican Coffee,26.0,7.0,beverages,coffee
+601,3060817,7,prior,14,1,13,17.0,40852.0,3.0,1.0,Lactose Free Fat Free Milk,91.0,16.0,dairy eggs,soy lactosefree
+602,3060817,7,prior,14,1,13,17.0,30391.0,4.0,1.0,Organic Cucumber,83.0,4.0,produce,fresh vegetables
+603,3120740,7,prior,15,3,16,2.0,32177.0,1.0,0.0,Blood Oranges,24.0,4.0,produce,fresh fruits
+604,3120740,7,prior,15,3,16,2.0,33740.0,2.0,0.0,"Cara Cara Oranges, Bag",24.0,4.0,produce,fresh fruits
+605,3120740,7,prior,15,3,16,2.0,8277.0,3.0,1.0,Apple Honeycrisp Organic,24.0,4.0,produce,fresh fruits
+606,3120740,7,prior,15,3,16,2.0,21137.0,4.0,1.0,Organic Strawberries,24.0,4.0,produce,fresh fruits
+607,3120740,7,prior,15,3,16,2.0,4920.0,5.0,1.0,Seedless Red Grapes,123.0,4.0,produce,packaged vegetables fruits
+608,3120740,7,prior,15,3,16,2.0,22742.0,6.0,0.0,Organic Sparkling Blood Orange Beverage,98.0,7.0,beverages,juice nectars
+609,3120740,7,prior,15,3,16,2.0,29602.0,7.0,0.0,Ear Candy (Cow Ears) Dog Chews,40.0,8.0,pets,dog food care
+610,3120740,7,prior,15,3,16,2.0,13176.0,8.0,0.0,Bag of Organic Bananas,24.0,4.0,produce,fresh fruits
+611,3120740,7,prior,15,3,16,2.0,46969.0,9.0,0.0,Organic Bosc Pear,24.0,4.0,produce,fresh fruits
+612,3120740,7,prior,15,3,16,2.0,21298.0,10.0,0.0,Organic Cake Cones,37.0,1.0,frozen,ice cream ice
+613,2425840,7,prior,16,0,13,11.0,37602.0,1.0,1.0,Mexican Coffee,26.0,7.0,beverages,coffee
+614,2425840,7,prior,16,0,13,11.0,40852.0,2.0,1.0,Lactose Free Fat Free Milk,91.0,16.0,dairy eggs,soy lactosefree
+615,2425840,7,prior,16,0,13,11.0,21137.0,3.0,1.0,Organic Strawberries,24.0,4.0,produce,fresh fruits
+616,2425840,7,prior,16,0,13,11.0,17638.0,4.0,1.0,Vanilla Coffee Concentrate,26.0,7.0,beverages,coffee
+617,2425840,7,prior,16,0,13,11.0,42265.0,5.0,0.0,Organic Baby Carrots,123.0,4.0,produce,packaged vegetables fruits
+618,2425840,7,prior,16,0,13,11.0,22000.0,6.0,0.0,The Original Worcestershire Sauce,72.0,13.0,pantry,condiments
+619,2425840,7,prior,16,0,13,11.0,35333.0,7.0,0.0,Seasoning Bay Leaf,104.0,13.0,pantry,spices seasonings
+620,2425840,7,prior,16,0,13,11.0,10504.0,8.0,0.0,Yukon Gold Potatoes 5lb Bag,83.0,4.0,produce,fresh vegetables
+621,2425840,7,prior,16,0,13,11.0,45066.0,9.0,1.0,Honeycrisp Apple,24.0,4.0,produce,fresh fruits
+622,2425840,7,prior,16,0,13,11.0,4920.0,10.0,1.0,Seedless Red Grapes,123.0,4.0,produce,packaged vegetables fruits
+623,2425840,7,prior,16,0,13,11.0,43352.0,11.0,0.0,Raspberries,32.0,4.0,produce,packaged produce
+624,2425840,7,prior,16,0,13,11.0,25199.0,12.0,0.0,Classic Chicken Salad,1.0,20.0,deli,prepared soups salads
+625,2425840,7,prior,16,0,13,11.0,12196.0,13.0,0.0,Chicken Quesadilla,13.0,20.0,deli,prepared meals
+626,2425840,7,prior,16,0,13,11.0,15592.0,14.0,0.0,Organic Baby Romaine Lettuce,123.0,4.0,produce,packaged vegetables fruits
+627,2425840,7,prior,16,0,13,11.0,18382.0,15.0,0.0,Saltine Crackers,78.0,19.0,snacks,crackers
+628,2425840,7,prior,16,0,13,11.0,23712.0,16.0,0.0,Natural Crackers,78.0,19.0,snacks,crackers
+629,2425840,7,prior,16,0,13,11.0,4945.0,17.0,0.0,Large Pineapple Chunks,123.0,4.0,produce,packaged vegetables fruits
+630,23391,7,prior,17,0,10,28.0,13198.0,1.0,1.0,85% Lean Ground Beef,122.0,12.0,meat seafood,meat counter
+631,23391,7,prior,17,0,10,28.0,42803.0,2.0,1.0,Organic Apple Slices,50.0,19.0,snacks,fruit vegetable snacks
+632,23391,7,prior,17,0,10,28.0,8277.0,3.0,1.0,Apple Honeycrisp Organic,24.0,4.0,produce,fresh fruits
+633,23391,7,prior,17,0,10,28.0,37602.0,4.0,1.0,Mexican Coffee,26.0,7.0,beverages,coffee
+634,23391,7,prior,17,0,10,28.0,40852.0,5.0,1.0,Lactose Free Fat Free Milk,91.0,16.0,dairy eggs,soy lactosefree
+635,23391,7,prior,17,0,10,28.0,4920.0,6.0,1.0,Seedless Red Grapes,123.0,4.0,produce,packaged vegetables fruits
+636,23391,7,prior,17,0,10,28.0,4945.0,7.0,1.0,Large Pineapple Chunks,123.0,4.0,produce,packaged vegetables fruits
+637,23391,7,prior,17,0,10,28.0,17638.0,8.0,1.0,Vanilla Coffee Concentrate,26.0,7.0,beverages,coffee
+638,23391,7,prior,17,0,10,28.0,11520.0,9.0,0.0,Large Alfresco Eggs,86.0,16.0,dairy eggs,eggs
+639,23391,7,prior,17,0,10,28.0,32177.0,10.0,1.0,Blood Oranges,24.0,4.0,produce,fresh fruits
+640,23391,7,prior,17,0,10,28.0,27344.0,11.0,0.0,Uncured Genoa Salami,96.0,20.0,deli,lunch meat
+641,2984707,7,prior,18,0,9,7.0,35333.0,1.0,1.0,Seasoning Bay Leaf,104.0,13.0,pantry,spices seasonings
+642,2984707,7,prior,18,0,9,7.0,44661.0,2.0,0.0,Bicolor Sweet Corn,83.0,4.0,produce,fresh vegetables
+643,2984707,7,prior,18,0,9,7.0,26209.0,3.0,0.0,Limes,24.0,4.0,produce,fresh fruits
+644,2984707,7,prior,18,0,9,7.0,27156.0,4.0,0.0,Organic Black Beans,59.0,15.0,canned goods,canned meals beans
+645,2984707,7,prior,18,0,9,7.0,8518.0,5.0,1.0,Organic Red Onion,83.0,4.0,produce,fresh vegetables
+646,2984707,7,prior,18,0,9,7.0,31717.0,6.0,0.0,Organic Cilantro,16.0,4.0,produce,fresh herbs
+647,2984707,7,prior,18,0,9,7.0,29894.0,7.0,0.0,Organic Dark Brown Sugar,17.0,13.0,pantry,baking ingredients
+648,2984707,7,prior,18,0,9,7.0,22000.0,8.0,1.0,The Original Worcestershire Sauce,72.0,13.0,pantry,condiments
+649,2984707,7,prior,18,0,9,7.0,23516.0,9.0,0.0,Organic Unbleached All-Purpose Flour,17.0,13.0,pantry,baking ingredients
+650,2984707,7,prior,18,0,9,7.0,4945.0,10.0,1.0,Large Pineapple Chunks,123.0,4.0,produce,packaged vegetables fruits
+651,2984707,7,prior,18,0,9,7.0,47623.0,11.0,0.0,Seasoning Allspice,104.0,13.0,pantry,spices seasonings
+652,2984707,7,prior,18,0,9,7.0,18880.0,12.0,0.0,Organic Free Range Low Sodium Chicken Broth,69.0,15.0,canned goods,soup broth bouillon
+653,2984707,7,prior,18,0,9,7.0,45066.0,13.0,1.0,Honeycrisp Apple,24.0,4.0,produce,fresh fruits
+654,369015,7,prior,19,3,12,3.0,47272.0,1.0,1.0,Antioxidant Infusions Beverage Malawi Mango,31.0,7.0,beverages,refrigerated
+655,369015,7,prior,19,3,12,3.0,37999.0,2.0,1.0,Antioxidant Infusions Ipanema Pomegranate Beverage,31.0,7.0,beverages,refrigerated
+656,369015,7,prior,19,3,12,3.0,21137.0,3.0,1.0,Organic Strawberries,24.0,4.0,produce,fresh fruits
+657,369015,7,prior,19,3,12,3.0,12196.0,4.0,1.0,Chicken Quesadilla,13.0,20.0,deli,prepared meals
+658,369015,7,prior,19,3,12,3.0,23712.0,5.0,1.0,Natural Crackers,78.0,19.0,snacks,crackers
+659,2452257,7,prior,20,3,9,7.0,47272.0,1.0,1.0,Antioxidant Infusions Beverage Malawi Mango,31.0,7.0,beverages,refrigerated
+660,2452257,7,prior,20,3,9,7.0,29993.0,2.0,1.0,Organic Low Fat Chocolate Milk,84.0,16.0,dairy eggs,milk
+661,2452257,7,prior,20,3,9,7.0,31683.0,3.0,1.0,Original No Pulp 100% Florida Orange Juice,31.0,7.0,beverages,refrigerated
+662,2452257,7,prior,20,3,9,7.0,27690.0,4.0,1.0,Apple Cinnamon GoGo Squeez,50.0,19.0,snacks,fruit vegetable snacks
+663,2452257,7,prior,20,3,9,7.0,9598.0,5.0,1.0,Gogo Squeez Organic Apple Strawberry Applesauce on the Go,99.0,15.0,canned goods,canned fruit applesauce
+664,2452257,7,prior,20,3,9,7.0,13198.0,6.0,1.0,85% Lean Ground Beef,122.0,12.0,meat seafood,meat counter
+665,2452257,7,prior,20,3,9,7.0,30391.0,7.0,1.0,Organic Cucumber,83.0,4.0,produce,fresh vegetables
+666,2452257,7,prior,20,3,9,7.0,37602.0,8.0,1.0,Mexican Coffee,26.0,7.0,beverages,coffee
+667,2452257,7,prior,20,3,9,7.0,21137.0,9.0,1.0,Organic Strawberries,24.0,4.0,produce,fresh fruits
+668,2452257,7,prior,20,3,9,7.0,40852.0,10.0,1.0,Lactose Free Fat Free Milk,91.0,16.0,dairy eggs,soy lactosefree
+669,2452257,7,prior,20,3,9,7.0,15592.0,11.0,1.0,Organic Baby Romaine Lettuce,123.0,4.0,produce,packaged vegetables fruits
+670,2452257,7,prior,20,3,9,7.0,32177.0,12.0,1.0,Blood Oranges,24.0,4.0,produce,fresh fruits
+671,525192,7,train,21,2,11,6.0,12053.0,1.0,0.0,Panama Peach Antioxidant Infusion,31.0,7.0,beverages,refrigerated
+672,525192,7,train,21,2,11,6.0,47272.0,2.0,1.0,Antioxidant Infusions Beverage Malawi Mango,31.0,7.0,beverages,refrigerated
+673,525192,7,train,21,2,11,6.0,37999.0,3.0,1.0,Antioxidant Infusions Ipanema Pomegranate Beverage,31.0,7.0,beverages,refrigerated
+674,525192,7,train,21,2,11,6.0,13198.0,4.0,1.0,85% Lean Ground Beef,122.0,12.0,meat seafood,meat counter
+675,525192,7,train,21,2,11,6.0,43967.0,5.0,1.0,Raspberry Lemonade,31.0,7.0,beverages,refrigerated
+676,525192,7,train,21,2,11,6.0,40852.0,6.0,1.0,Lactose Free Fat Free Milk,91.0,16.0,dairy eggs,soy lactosefree
+677,525192,7,train,21,2,11,6.0,17638.0,7.0,1.0,Vanilla Coffee Concentrate,26.0,7.0,beverages,coffee
+678,525192,7,train,21,2,11,6.0,29894.0,8.0,1.0,Organic Dark Brown Sugar,17.0,13.0,pantry,baking ingredients
+679,525192,7,train,21,2,11,6.0,45066.0,9.0,1.0,Honeycrisp Apple,24.0,4.0,produce,fresh fruits
+680,600894,8,prior,1,6,0,,21903.0,1.0,0.0,Organic Baby Spinach,123.0,4.0,produce,packaged vegetables fruits
+681,600894,8,prior,1,6,0,,28985.0,2.0,0.0,Michigan Organic Kale,83.0,4.0,produce,fresh vegetables
+682,600894,8,prior,1,6,0,,6473.0,3.0,0.0,Bag of Lemons,24.0,4.0,produce,fresh fruits
+683,600894,8,prior,1,6,0,,39110.0,4.0,0.0,Red Chili Flakes,104.0,13.0,pantry,spices seasonings
+684,600894,8,prior,1,6,0,,39812.0,5.0,0.0,Organic Thyme,16.0,4.0,produce,fresh herbs
+685,600894,8,prior,1,6,0,,20920.0,6.0,0.0,Sage,16.0,4.0,produce,fresh herbs
+686,600894,8,prior,1,6,0,,32030.0,7.0,0.0,Extra Sharp White Cheddar,21.0,16.0,dairy eggs,packaged cheese
+687,600894,8,prior,1,6,0,,24838.0,8.0,0.0,Unsweetened Almondmilk,91.0,16.0,dairy eggs,soy lactosefree
+688,600894,8,prior,1,6,0,,2078.0,9.0,0.0,Unsalted Pure Irish Butter,36.0,16.0,dairy eggs,butter
+689,600894,8,prior,1,6,0,,651.0,10.0,0.0,Organic Salted Butter,36.0,16.0,dairy eggs,butter
+690,600894,8,prior,1,6,0,,16349.0,11.0,0.0,Organic Yams,83.0,4.0,produce,fresh vegetables
+691,600894,8,prior,1,6,0,,49533.0,12.0,0.0,Cane Sugar,17.0,13.0,pantry,baking ingredients
+692,600894,8,prior,1,6,0,,17794.0,13.0,0.0,Carrots,83.0,4.0,produce,fresh vegetables
+693,600894,8,prior,1,6,0,,23400.0,14.0,0.0,Organic Premium Tomato Paste,81.0,15.0,canned goods,canned jarred vegetables
+694,600894,8,prior,1,6,0,,1529.0,15.0,0.0,"Parsley, Italian (Flat), New England Grown",16.0,4.0,produce,fresh herbs
+695,600894,8,prior,1,6,0,,6141.0,16.0,0.0,Low Sodium Beef Broth,69.0,15.0,canned goods,soup broth bouillon
+696,600894,8,prior,1,6,0,,44099.0,17.0,0.0,Organic Dried Porcini Mushrooms,63.0,9.0,dry goods pasta,grains rice dried goods
+697,600894,8,prior,1,6,0,,23165.0,18.0,0.0,Organic Leek,83.0,4.0,produce,fresh vegetables
+698,600894,8,prior,1,6,0,,34190.0,19.0,0.0,Organic Coconut Cream,66.0,6.0,international,asian foods
+699,600894,8,prior,1,6,0,,9839.0,20.0,0.0,Organic Broccoli,83.0,4.0,produce,fresh vegetables
+700,600894,8,prior,1,6,0,,14992.0,21.0,0.0,Green Beans,83.0,4.0,produce,fresh vegetables
+701,2979257,8,prior,2,1,8,30.0,9839.0,1.0,1.0,Organic Broccoli,83.0,4.0,produce,fresh vegetables
+702,2979257,8,prior,2,1,8,30.0,14992.0,2.0,1.0,Green Beans,83.0,4.0,produce,fresh vegetables
+703,2979257,8,prior,2,1,8,30.0,26882.0,3.0,0.0,Russet Potatoes,83.0,4.0,produce,fresh vegetables
+704,2979257,8,prior,2,1,8,30.0,2078.0,4.0,1.0,Unsalted Pure Irish Butter,36.0,16.0,dairy eggs,butter
+705,2979257,8,prior,2,1,8,30.0,42736.0,5.0,0.0,Unsalted Butter,36.0,16.0,dairy eggs,butter
+706,2979257,8,prior,2,1,8,30.0,18531.0,6.0,0.0,Organic Heavy Whipping Cream,53.0,16.0,dairy eggs,cream
+707,2979257,8,prior,2,1,8,30.0,17794.0,7.0,1.0,Carrots,83.0,4.0,produce,fresh vegetables
+708,2979257,8,prior,2,1,8,30.0,32197.0,8.0,0.0,Organic Celery Root,83.0,4.0,produce,fresh vegetables
+709,2979257,8,prior,2,1,8,30.0,11136.0,9.0,0.0,Organic Low Sodium Chicken Cooking Stock,69.0,15.0,canned goods,soup broth bouillon
+710,2979257,8,prior,2,1,8,30.0,34358.0,10.0,0.0,Garlic,83.0,4.0,produce,fresh vegetables
+711,2979257,8,prior,2,1,8,30.0,23165.0,11.0,1.0,Organic Leek,83.0,4.0,produce,fresh vegetables
+712,2979257,8,prior,2,1,8,30.0,21903.0,12.0,1.0,Organic Baby Spinach,123.0,4.0,produce,packaged vegetables fruits
+713,2979257,8,prior,2,1,8,30.0,28985.0,13.0,1.0,Michigan Organic Kale,83.0,4.0,produce,fresh vegetables
+714,2979257,8,prior,2,1,8,30.0,32030.0,14.0,1.0,Extra Sharp White Cheddar,21.0,16.0,dairy eggs,packaged cheese
+715,2979257,8,prior,2,1,8,30.0,43295.0,15.0,0.0,Unsweetened Vanilla Almond Milk,91.0,16.0,dairy eggs,soy lactosefree
+716,2570360,8,prior,3,5,0,30.0,23165.0,1.0,1.0,Organic Leek,83.0,4.0,produce,fresh vegetables
+717,2570360,8,prior,3,5,0,30.0,2078.0,2.0,1.0,Unsalted Pure Irish Butter,36.0,16.0,dairy eggs,butter
+718,2570360,8,prior,3,5,0,30.0,4799.0,3.0,0.0,Shredded Parmesan,21.0,16.0,dairy eggs,packaged cheese
+719,2570360,8,prior,3,5,0,30.0,33640.0,4.0,0.0,"Baked Beans, Vegetarian",59.0,15.0,canned goods,canned meals beans
+720,2570360,8,prior,3,5,0,30.0,10644.0,5.0,0.0,Italian Extra Virgin Olive Oil,19.0,13.0,pantry,oils vinegars
+721,2570360,8,prior,3,5,0,30.0,41540.0,6.0,0.0,Organic Whole White Mushrooms,83.0,4.0,produce,fresh vegetables
+722,2570360,8,prior,3,5,0,30.0,15143.0,7.0,0.0,Blueberry Pint,24.0,4.0,produce,fresh fruits
+723,2570360,8,prior,3,5,0,30.0,34358.0,8.0,1.0,Garlic,83.0,4.0,produce,fresh vegetables
+724,2570360,8,prior,3,5,0,30.0,15937.0,9.0,0.0,Shallot,83.0,4.0,produce,fresh vegetables
+725,2570360,8,prior,3,5,0,30.0,17794.0,10.0,1.0,Carrots,83.0,4.0,produce,fresh vegetables
+726,2570360,8,prior,3,5,0,30.0,8193.0,11.0,0.0,Russet Potato,83.0,4.0,produce,fresh vegetables
+727,2570360,8,prior,3,5,0,30.0,18479.0,12.0,0.0,Organic Low Sodium Vegetable Broth,69.0,15.0,canned goods,soup broth bouillon
+728,2570360,8,prior,3,5,0,30.0,18531.0,13.0,1.0,Organic Heavy Whipping Cream,53.0,16.0,dairy eggs,cream
+729,880375,8,train,4,1,14,10.0,15937.0,1.0,1.0,Shallot,83.0,4.0,produce,fresh vegetables
+730,880375,8,train,4,1,14,10.0,5539.0,2.0,0.0,Organic SprouTofu Silken Tofu,14.0,20.0,deli,tofu meat alternatives
+731,880375,8,train,4,1,14,10.0,10960.0,3.0,0.0,Nutritional Yeast Seasoning,104.0,13.0,pantry,spices seasonings
+732,880375,8,train,4,1,14,10.0,23165.0,4.0,1.0,Organic Leek,83.0,4.0,produce,fresh vegetables
+733,880375,8,train,4,1,14,10.0,22247.0,5.0,0.0,Organic Chives,16.0,4.0,produce,fresh herbs
+734,880375,8,train,4,1,14,10.0,4853.0,6.0,0.0,Broccoli Rabe,83.0,4.0,produce,fresh vegetables
+735,880375,8,train,4,1,14,10.0,27104.0,7.0,0.0,Fresh Cauliflower,83.0,4.0,produce,fresh vegetables
+736,880375,8,train,4,1,14,10.0,7058.0,8.0,0.0,Vidalia Onions,83.0,4.0,produce,fresh vegetables
+737,880375,8,train,4,1,14,10.0,41259.0,9.0,0.0,Poblano Pepper,83.0,4.0,produce,fresh vegetables
+738,880375,8,train,4,1,14,10.0,37803.0,10.0,0.0,Oyster Mushrooms,83.0,4.0,produce,fresh vegetables
+739,880375,8,train,4,1,14,10.0,48230.0,11.0,0.0,Soft Taco Size White Flour Tortillas,128.0,3.0,bakery,tortillas flat bread
+740,880375,8,train,4,1,14,10.0,47766.0,12.0,0.0,Organic Avocado,24.0,4.0,produce,fresh fruits
+741,880375,8,train,4,1,14,10.0,31717.0,13.0,0.0,Organic Cilantro,16.0,4.0,produce,fresh herbs
+742,880375,8,train,4,1,14,10.0,21903.0,14.0,1.0,Organic Baby Spinach,123.0,4.0,produce,packaged vegetables fruits
+743,880375,8,train,4,1,14,10.0,25659.0,15.0,0.0,Organic Coconut Milk,91.0,16.0,dairy eggs,soy lactosefree
+744,880375,8,train,4,1,14,10.0,41540.0,16.0,1.0,Organic Whole White Mushrooms,83.0,4.0,produce,fresh vegetables
+745,880375,8,train,4,1,14,10.0,48121.0,17.0,0.0,Solid White-No Salt Added Albacore Tuna,95.0,15.0,canned goods,canned meat seafood
+746,880375,8,train,4,1,14,10.0,2846.0,18.0,0.0,Organic Green Onions,83.0,4.0,produce,fresh vegetables
+747,280530,9,prior,1,1,17,,27973.0,1.0,0.0,Almond Non-Dairy Yogurt Made From Real Almonds Plain Low Fat,120.0,16.0,dairy eggs,yogurt
+748,280530,9,prior,1,1,17,,481.0,2.0,0.0,Black Peppercorns,104.0,13.0,pantry,spices seasonings
+749,280530,9,prior,1,1,17,,27966.0,3.0,0.0,Organic Raspberries,123.0,4.0,produce,packaged vegetables fruits
+750,280530,9,prior,1,1,17,,33754.0,4.0,0.0,Total 2% with Strawberry Lowfat Greek Strained Yogurt,120.0,16.0,dairy eggs,yogurt
+751,280530,9,prior,1,1,17,,4957.0,5.0,0.0,Total 2% Lowfat Greek Strained Yogurt With Blueberry,120.0,16.0,dairy eggs,yogurt
+752,280530,9,prior,1,1,17,,13351.0,6.0,0.0,Total 0% Peach Yogurt,120.0,16.0,dairy eggs,yogurt
+753,280530,9,prior,1,1,17,,40571.0,7.0,0.0,Total 2% Greek Strained Yogurt with Cherry 5.3 oz,120.0,16.0,dairy eggs,yogurt
+754,280530,9,prior,1,1,17,,38159.0,8.0,0.0,Organic Yellow Peaches,24.0,4.0,produce,fresh fruits
+755,280530,9,prior,1,1,17,,38277.0,9.0,0.0,Dairy Free Vanilla Coconut Milk,91.0,16.0,dairy eggs,soy lactosefree
+756,280530,9,prior,1,1,17,,5194.0,10.0,0.0,Organic Bunny Fruit Snacks Berry Patch,50.0,19.0,snacks,fruit vegetable snacks
+757,280530,9,prior,1,1,17,,5002.0,11.0,0.0,Organic Iced Oatmeal Cookie ZBar,3.0,19.0,snacks,energy granola bars
+758,280530,9,prior,1,1,17,,13740.0,12.0,0.0,Organic Summer Strawberry Bunny Fruit Snacks,50.0,19.0,snacks,fruit vegetable snacks
+759,280530,9,prior,1,1,17,,26790.0,13.0,0.0,Organic AppleApple,99.0,15.0,canned goods,canned fruit applesauce
+760,280530,9,prior,1,1,17,,6489.0,14.0,0.0,Backyard Barbeque Potato Chips,107.0,19.0,snacks,chips pretzels
+761,280530,9,prior,1,1,17,,16154.0,15.0,0.0,Mini Peanut Butter Sandwich Crackers,78.0,19.0,snacks,crackers
+762,280530,9,prior,1,1,17,,27690.0,16.0,0.0,Apple Cinnamon GoGo Squeez,50.0,19.0,snacks,fruit vegetable snacks
+763,280530,9,prior,1,1,17,,45045.0,17.0,0.0,Organic Stage 3 Pumpkin Cranberry Apple Baby Food,92.0,18.0,babies,baby food formula
+764,280530,9,prior,1,1,17,,19627.0,18.0,0.0,Butternut Squash Pear Stage 2 Baby Food,92.0,18.0,babies,baby food formula
+765,280530,9,prior,1,1,17,,43875.0,19.0,0.0,Baby Food Stage 2 Blueberry Pear & Purple Carrot,92.0,18.0,babies,baby food formula
+766,280530,9,prior,1,1,17,,45767.0,20.0,0.0,Sunny Days Strawberry Snack Bars,92.0,18.0,babies,baby food formula
+767,280530,9,prior,1,1,17,,47167.0,21.0,0.0,Organic Sunny Days Apple Snack Bars,92.0,18.0,babies,baby food formula
+768,280530,9,prior,1,1,17,,16018.0,22.0,0.0,Cinnamon Crunch Apple Chips,50.0,19.0,snacks,fruit vegetable snacks
+769,280530,9,prior,1,1,17,,8952.0,23.0,0.0,Multigrain Pancake & Waffle Mix,130.0,14.0,breakfast,hot cereal pancake mixes
+770,280530,9,prior,1,1,17,,7952.0,24.0,0.0,Chicken & Apple Breakfast Sausage,106.0,12.0,meat seafood,hot dogs bacon sausage
+771,280530,9,prior,1,1,17,,311.0,25.0,0.0,Naturals Savory Turkey Breakfast Sausage,52.0,1.0,frozen,frozen breakfast
+772,280530,9,prior,1,1,17,,21108.0,26.0,0.0,Cherry Vanilla Creme Soda,77.0,7.0,beverages,soft drinks
+773,280530,9,prior,1,1,17,,11790.0,27.0,0.0,Natural Vanilla Marshmallows,17.0,13.0,pantry,baking ingredients
+774,280530,9,prior,1,1,17,,23592.0,28.0,0.0,RapidRise Yeast,17.0,13.0,pantry,baking ingredients
+775,280530,9,prior,1,1,17,,42828.0,29.0,0.0,Whipped Cream Cheese,108.0,16.0,dairy eggs,other creams cheeses
+776,280530,9,prior,1,1,17,,31066.0,30.0,0.0,Aluminum Foil,85.0,17.0,household,food storage
+777,2762092,9,prior,2,0,14,6.0,24341.0,1.0,0.0,Organic & Cold-Pressed Vegetable & Fruit Juice Vitality,31.0,7.0,beverages,refrigerated
+778,2762092,9,prior,2,0,14,6.0,38159.0,2.0,1.0,Organic Yellow Peaches,24.0,4.0,produce,fresh fruits
+779,2762092,9,prior,2,0,14,6.0,27966.0,3.0,1.0,Organic Raspberries,123.0,4.0,produce,packaged vegetables fruits
+780,2762092,9,prior,2,0,14,6.0,18926.0,4.0,0.0,Fat Free Strawberry Yogurt,120.0,16.0,dairy eggs,yogurt
+781,2762092,9,prior,2,0,14,6.0,4957.0,5.0,1.0,Total 2% Lowfat Greek Strained Yogurt With Blueberry,120.0,16.0,dairy eggs,yogurt
+782,2762092,9,prior,2,0,14,6.0,26604.0,6.0,0.0,Organic Blackberries,24.0,4.0,produce,fresh fruits
+783,2762092,9,prior,2,0,14,6.0,8834.0,7.0,0.0,Raspberry Lime Sparkling Seltzer Water,115.0,7.0,beverages,water seltzer sparkling water
+784,2762092,9,prior,2,0,14,6.0,33787.0,8.0,0.0,Total 2% Lowfat Greek Strained Yogurt with Peach,120.0,16.0,dairy eggs,yogurt
+785,2762092,9,prior,2,0,14,6.0,27973.0,9.0,1.0,Almond Non-Dairy Yogurt Made From Real Almonds Plain Low Fat,120.0,16.0,dairy eggs,yogurt
+786,2762092,9,prior,2,0,14,6.0,30252.0,10.0,0.0,Organic Soft Wheat Bread,112.0,3.0,bakery,bread
+787,2762092,9,prior,2,0,14,6.0,29594.0,11.0,0.0,YoKids Strawberry Banana/Strawberry Yogurt,120.0,16.0,dairy eggs,yogurt
+788,1830137,9,prior,3,5,12,30.0,8834.0,1.0,1.0,Raspberry Lime Sparkling Seltzer Water,115.0,7.0,beverages,water seltzer sparkling water
+789,1830137,9,prior,3,5,12,30.0,30252.0,2.0,1.0,Organic Soft Wheat Bread,112.0,3.0,bakery,bread
+790,1830137,9,prior,3,5,12,30.0,24341.0,3.0,1.0,Organic & Cold-Pressed Vegetable & Fruit Juice Vitality,31.0,7.0,beverages,refrigerated
+791,1830137,9,prior,3,5,12,30.0,27973.0,4.0,1.0,Almond Non-Dairy Yogurt Made From Real Almonds Plain Low Fat,120.0,16.0,dairy eggs,yogurt
+792,1830137,9,prior,3,5,12,30.0,29594.0,5.0,1.0,YoKids Strawberry Banana/Strawberry Yogurt,120.0,16.0,dairy eggs,yogurt
+793,1830137,9,prior,3,5,12,30.0,18926.0,6.0,1.0,Fat Free Strawberry Yogurt,120.0,16.0,dairy eggs,yogurt
+794,1830137,9,prior,3,5,12,30.0,45767.0,7.0,1.0,Sunny Days Strawberry Snack Bars,92.0,18.0,babies,baby food formula
+795,1830137,9,prior,3,5,12,30.0,6489.0,8.0,1.0,Backyard Barbeque Potato Chips,107.0,19.0,snacks,chips pretzels
+796,1830137,9,prior,3,5,12,30.0,33754.0,9.0,1.0,Total 2% with Strawberry Lowfat Greek Strained Yogurt,120.0,16.0,dairy eggs,yogurt
+797,1830137,9,prior,3,5,12,30.0,40571.0,10.0,1.0,Total 2% Greek Strained Yogurt with Cherry 5.3 oz,120.0,16.0,dairy eggs,yogurt
+798,1830137,9,prior,3,5,12,30.0,42828.0,11.0,1.0,Whipped Cream Cheese,108.0,16.0,dairy eggs,other creams cheeses
+799,1830137,9,prior,3,5,12,30.0,481.0,12.0,1.0,Black Peppercorns,104.0,13.0,pantry,spices seasonings
+800,1830137,9,prior,3,5,12,30.0,26604.0,13.0,1.0,Organic Blackberries,24.0,4.0,produce,fresh fruits
+801,1830137,9,prior,3,5,12,30.0,17600.0,14.0,0.0,"YoKids Squeezers Organic Low-Fat Yogurt, Strawberry",120.0,16.0,dairy eggs,yogurt
+802,1830137,9,prior,3,5,12,30.0,2732.0,15.0,0.0,Gluten Free Pretzel Sticks,107.0,19.0,snacks,chips pretzels
+803,1830137,9,prior,3,5,12,30.0,12075.0,16.0,0.0,Spicy Hummus,67.0,20.0,deli,fresh dips tapenades
+804,1830137,9,prior,3,5,12,30.0,27596.0,17.0,0.0,Classic Original Hommus,67.0,20.0,deli,fresh dips tapenades
+805,1830137,9,prior,3,5,12,30.0,10132.0,18.0,0.0,Organic American Cheese Singles,21.0,16.0,dairy eggs,packaged cheese
+806,1830137,9,prior,3,5,12,30.0,24954.0,19.0,0.0,Total 0% with Honey Nonfat Greek Strained Yogurt,120.0,16.0,dairy eggs,yogurt
+807,1830137,9,prior,3,5,12,30.0,1559.0,20.0,0.0,Cherry Pomegranate Greek Yogurt,120.0,16.0,dairy eggs,yogurt
+808,1830137,9,prior,3,5,12,30.0,8467.0,21.0,0.0,Cinnamon Raisin Bread,112.0,3.0,bakery,bread
+809,1830137,9,prior,3,5,12,30.0,30967.0,22.0,0.0,Organic Frosted Flakes Cereal,121.0,14.0,breakfast,cereal
+810,1830137,9,prior,3,5,12,30.0,24952.0,23.0,0.0,"Tortilla Chips, Corn, Red Hot Blues",107.0,19.0,snacks,chips pretzels
+811,1830137,9,prior,3,5,12,30.0,34448.0,24.0,0.0,Original Veggie Straws,50.0,19.0,snacks,fruit vegetable snacks
+812,1830137,9,prior,3,5,12,30.0,39409.0,25.0,0.0,"Ginger Root Beer, Naturally Flavored Zero Calorie Soda, Caffeine Free",77.0,7.0,beverages,soft drinks
+813,1830137,9,prior,3,5,12,30.0,20899.0,26.0,0.0,Goo Berry Pie Probugs Kefir,120.0,16.0,dairy eggs,yogurt
+814,1830137,9,prior,3,5,12,30.0,21462.0,27.0,0.0,Zero Calorie Cola Soda,77.0,7.0,beverages,soft drinks
+815,1830137,9,prior,3,5,12,30.0,41844.0,28.0,0.0,Honey Nut Cheerios,121.0,14.0,breakfast,cereal
+816,1830137,9,prior,3,5,12,30.0,23765.0,29.0,0.0,Organic Smoked Turkey Breast,96.0,20.0,deli,lunch meat
+817,1830137,9,prior,3,5,12,30.0,42347.0,30.0,0.0,Caffeine Free Diet Cola All Natural Soda,77.0,7.0,beverages,soft drinks
+818,1830137,9,prior,3,5,12,30.0,38277.0,31.0,1.0,Dairy Free Vanilla Coconut Milk,91.0,16.0,dairy eggs,soy lactosefree
+819,1830137,9,prior,3,5,12,30.0,38988.0,32.0,0.0,White English Muffins,93.0,3.0,bakery,breakfast bakery
+820,1830137,9,prior,3,5,12,30.0,27555.0,33.0,0.0,Organic Dried Granny Apple Chips,107.0,19.0,snacks,chips pretzels
+821,1830137,9,prior,3,5,12,30.0,3634.0,34.0,0.0,Krinkle Cut Classic Barbecue Potato Chips,107.0,19.0,snacks,chips pretzels
+822,1830137,9,prior,3,5,12,30.0,38777.0,35.0,0.0,Organic Green Seedless Grapes,123.0,4.0,produce,packaged vegetables fruits
+823,1094988,9,train,4,6,10,30.0,27555.0,1.0,1.0,Organic Dried Granny Apple Chips,107.0,19.0,snacks,chips pretzels
+824,1094988,9,train,4,6,10,30.0,42347.0,2.0,1.0,Caffeine Free Diet Cola All Natural Soda,77.0,7.0,beverages,soft drinks
+825,1094988,9,train,4,6,10,30.0,27596.0,3.0,1.0,Classic Original Hommus,67.0,20.0,deli,fresh dips tapenades
+826,1094988,9,train,4,6,10,30.0,8834.0,4.0,1.0,Raspberry Lime Sparkling Seltzer Water,115.0,7.0,beverages,water seltzer sparkling water
+827,1094988,9,train,4,6,10,30.0,26604.0,5.0,1.0,Organic Blackberries,24.0,4.0,produce,fresh fruits
+828,1094988,9,train,4,6,10,30.0,12075.0,6.0,1.0,Spicy Hummus,67.0,20.0,deli,fresh dips tapenades
+829,1094988,9,train,4,6,10,30.0,8467.0,7.0,1.0,Cinnamon Raisin Bread,112.0,3.0,bakery,bread
+830,1094988,9,train,4,6,10,30.0,38988.0,8.0,1.0,White English Muffins,93.0,3.0,bakery,breakfast bakery
+831,1094988,9,train,4,6,10,30.0,30252.0,9.0,1.0,Organic Soft Wheat Bread,112.0,3.0,bakery,bread
+832,1094988,9,train,4,6,10,30.0,18926.0,10.0,1.0,Fat Free Strawberry Yogurt,120.0,16.0,dairy eggs,yogurt
+833,1094988,9,train,4,6,10,30.0,24954.0,11.0,1.0,Total 0% with Honey Nonfat Greek Strained Yogurt,120.0,16.0,dairy eggs,yogurt
+834,1094988,9,train,4,6,10,30.0,40571.0,12.0,1.0,Total 2% Greek Strained Yogurt with Cherry 5.3 oz,120.0,16.0,dairy eggs,yogurt
+835,1094988,9,train,4,6,10,30.0,1559.0,13.0,1.0,Cherry Pomegranate Greek Yogurt,120.0,16.0,dairy eggs,yogurt
+836,1094988,9,train,4,6,10,30.0,33754.0,14.0,1.0,Total 2% with Strawberry Lowfat Greek Strained Yogurt,120.0,16.0,dairy eggs,yogurt
+837,1094988,9,train,4,6,10,30.0,29594.0,15.0,1.0,YoKids Strawberry Banana/Strawberry Yogurt,120.0,16.0,dairy eggs,yogurt
+838,1094988,9,train,4,6,10,30.0,17600.0,16.0,1.0,"YoKids Squeezers Organic Low-Fat Yogurt, Strawberry",120.0,16.0,dairy eggs,yogurt
+839,1094988,9,train,4,6,10,30.0,42828.0,17.0,1.0,Whipped Cream Cheese,108.0,16.0,dairy eggs,other creams cheeses
+840,1094988,9,train,4,6,10,30.0,10132.0,18.0,1.0,Organic American Cheese Singles,21.0,16.0,dairy eggs,packaged cheese
+841,1094988,9,train,4,6,10,30.0,20899.0,19.0,1.0,Goo Berry Pie Probugs Kefir,120.0,16.0,dairy eggs,yogurt
+842,1094988,9,train,4,6,10,30.0,27973.0,20.0,1.0,Almond Non-Dairy Yogurt Made From Real Almonds Plain Low Fat,120.0,16.0,dairy eggs,yogurt
+843,1094988,9,train,4,6,10,30.0,41844.0,21.0,1.0,Honey Nut Cheerios,121.0,14.0,breakfast,cereal
+844,1094988,9,train,4,6,10,30.0,30967.0,22.0,1.0,Organic Frosted Flakes Cereal,121.0,14.0,breakfast,cereal
+845,1224907,10,prior,1,2,14,,46979.0,1.0,0.0,Asparagus,83.0,4.0,produce,fresh vegetables
+846,1224907,10,prior,1,2,14,,24852.0,2.0,0.0,Banana,24.0,4.0,produce,fresh fruits
+847,1224907,10,prior,1,2,14,,27104.0,3.0,0.0,Fresh Cauliflower,83.0,4.0,produce,fresh vegetables
+848,1224907,10,prior,1,2,14,,16797.0,4.0,0.0,Strawberries,24.0,4.0,produce,fresh fruits
+849,1224907,10,prior,1,2,14,,31717.0,5.0,0.0,Organic Cilantro,16.0,4.0,produce,fresh herbs
+850,68288,10,prior,2,5,15,30.0,46979.0,1.0,1.0,Asparagus,83.0,4.0,produce,fresh vegetables
+851,68288,10,prior,2,5,15,30.0,47380.0,2.0,0.0,New York Style Nova Lox,15.0,12.0,meat seafood,packaged seafood
+852,68288,10,prior,2,5,15,30.0,20995.0,3.0,0.0,Organic Broccoli Florets,116.0,1.0,frozen,frozen produce
+853,68288,10,prior,2,5,15,30.0,43014.0,4.0,0.0,Sliced Baby Bella Mushrooms,123.0,4.0,produce,packaged vegetables fruits
+854,68288,10,prior,2,5,15,30.0,15011.0,5.0,0.0,"Pita Chips, Simply Naked",107.0,19.0,snacks,chips pretzels
+855,68288,10,prior,2,5,15,30.0,27156.0,6.0,0.0,Organic Black Beans,59.0,15.0,canned goods,canned meals beans
+856,68288,10,prior,2,5,15,30.0,13512.0,7.0,0.0,Organic Smoked Chicken Breast,96.0,20.0,deli,lunch meat
+857,68288,10,prior,2,5,15,30.0,40604.0,8.0,0.0,Feta Cheese Crumbles,21.0,16.0,dairy eggs,packaged cheese
+858,68288,10,prior,2,5,15,30.0,13198.0,9.0,0.0,85% Lean Ground Beef,122.0,12.0,meat seafood,meat counter
+859,68288,10,prior,2,5,15,30.0,9339.0,10.0,0.0,Organic Chicken & Apple Sausage,106.0,12.0,meat seafood,hot dogs bacon sausage
+860,68288,10,prior,2,5,15,30.0,5646.0,11.0,0.0,Organic Turkey Bacon,106.0,12.0,meat seafood,hot dogs bacon sausage
+861,68288,10,prior,2,5,15,30.0,28986.0,12.0,0.0,Mild Italian Chicken Sausage,106.0,12.0,meat seafood,hot dogs bacon sausage
+862,68288,10,prior,2,5,15,30.0,27104.0,13.0,1.0,Fresh Cauliflower,83.0,4.0,produce,fresh vegetables
+863,68288,10,prior,2,5,15,30.0,41220.0,14.0,0.0,Organic Romaine Lettuce,83.0,4.0,produce,fresh vegetables
+864,68288,10,prior,2,5,15,30.0,22825.0,15.0,0.0,Organic D'Anjou Pears,24.0,4.0,produce,fresh fruits
+865,68288,10,prior,2,5,15,30.0,34358.0,16.0,0.0,Garlic,83.0,4.0,produce,fresh vegetables
+866,68288,10,prior,2,5,15,30.0,44910.0,17.0,0.0,Organic Spring Mix Salad,123.0,4.0,produce,packaged vegetables fruits
+867,68288,10,prior,2,5,15,30.0,15290.0,18.0,0.0,Orange Bell Pepper,83.0,4.0,produce,fresh vegetables
+868,68288,10,prior,2,5,15,30.0,14992.0,19.0,0.0,Green Beans,83.0,4.0,produce,fresh vegetables
+869,68288,10,prior,2,5,15,30.0,36695.0,20.0,0.0,Organic Hothouse Cucumbers,83.0,4.0,produce,fresh vegetables
+870,68288,10,prior,2,5,15,30.0,47042.0,21.0,0.0,Organic Red On the Vine Tomato,83.0,4.0,produce,fresh vegetables
+871,68288,10,prior,2,5,15,30.0,23165.0,22.0,0.0,Organic Leek,83.0,4.0,produce,fresh vegetables
+872,68288,10,prior,2,5,15,30.0,15937.0,23.0,0.0,Shallot,83.0,4.0,produce,fresh vegetables
+873,68288,10,prior,2,5,15,30.0,25931.0,24.0,0.0,Organic Baby Spinach Salad,123.0,4.0,produce,packaged vegetables fruits
+874,68288,10,prior,2,5,15,30.0,5818.0,25.0,0.0,White Onion,83.0,4.0,produce,fresh vegetables
+875,68288,10,prior,2,5,15,30.0,1529.0,26.0,0.0,"Parsley, Italian (Flat), New England Grown",16.0,4.0,produce,fresh herbs
+876,68288,10,prior,2,5,15,30.0,32537.0,27.0,0.0,Parsley,16.0,4.0,produce,fresh herbs
+877,68288,10,prior,2,5,15,30.0,11782.0,28.0,0.0,Bing Cherries,24.0,4.0,produce,fresh fruits
+878,68288,10,prior,2,5,15,30.0,30489.0,29.0,0.0,Original Hummus,67.0,20.0,deli,fresh dips tapenades
+879,68288,10,prior,2,5,15,30.0,36735.0,30.0,0.0,Organic Roasted Sliced Chicken Breast,96.0,20.0,deli,lunch meat
+880,68288,10,prior,2,5,15,30.0,18441.0,31.0,0.0,Organic Ketchup,72.0,13.0,pantry,condiments
+881,68288,10,prior,2,5,15,30.0,15392.0,32.0,0.0,Organic Mayonnaise,72.0,13.0,pantry,condiments
+882,68288,10,prior,2,5,15,30.0,7632.0,33.0,0.0,Old Style Whole Grain Dijon Mustard,72.0,13.0,pantry,condiments
+883,68288,10,prior,2,5,15,30.0,32299.0,34.0,0.0,Dijon Mustard,72.0,13.0,pantry,condiments
+884,68288,10,prior,2,5,15,30.0,48204.0,35.0,0.0,Tamari Gluten Free Soy Sauce,66.0,6.0,international,asian foods
+885,68288,10,prior,2,5,15,30.0,28535.0,36.0,0.0,Cucumber & Garlic  Tzatziki,51.0,13.0,pantry,preserved dips spreads
+886,68288,10,prior,2,5,15,30.0,34128.0,37.0,0.0,Tzatziki,67.0,20.0,deli,fresh dips tapenades
+887,68288,10,prior,2,5,15,30.0,8988.0,38.0,0.0,Organic Garlic Powder,104.0,13.0,pantry,spices seasonings
+888,68288,10,prior,2,5,15,30.0,13212.0,39.0,0.0,Ground Black Pepper,104.0,13.0,pantry,spices seasonings
+889,68288,10,prior,2,5,15,30.0,7746.0,40.0,0.0,Oregano,104.0,13.0,pantry,spices seasonings
+890,68288,10,prior,2,5,15,30.0,35973.0,41.0,0.0,Paprika,104.0,13.0,pantry,spices seasonings
+891,68288,10,prior,2,5,15,30.0,35725.0,42.0,0.0,Organic Oregano,104.0,13.0,pantry,spices seasonings
+892,68288,10,prior,2,5,15,30.0,45664.0,43.0,0.0,Onion Powder,104.0,13.0,pantry,spices seasonings
+893,68288,10,prior,2,5,15,30.0,16857.0,44.0,0.0,Barcelona Vinaigrette Mediterranean Style,89.0,13.0,pantry,salad dressing toppings
+894,68288,10,prior,2,5,15,30.0,31506.0,45.0,0.0,Extra Virgin Olive Oil,19.0,13.0,pantry,oils vinegars
+895,68288,10,prior,2,5,15,30.0,47526.0,46.0,0.0,Goat Cheese Log,21.0,16.0,dairy eggs,packaged cheese
+896,2115522,10,prior,3,3,19,12.0,47380.0,1.0,1.0,New York Style Nova Lox,15.0,12.0,meat seafood,packaged seafood
+897,2115522,10,prior,3,3,19,12.0,5769.0,2.0,0.0,Organic Chicken Stock,69.0,15.0,canned goods,soup broth bouillon
+898,2115522,10,prior,3,3,19,12.0,13629.0,3.0,0.0,Organic Snipped Green Beans,83.0,4.0,produce,fresh vegetables
+899,2115522,10,prior,3,3,19,12.0,40706.0,4.0,0.0,Organic Grape Tomatoes,123.0,4.0,produce,packaged vegetables fruits
+900,2115522,10,prior,3,3,19,12.0,45007.0,5.0,0.0,Organic Zucchini,83.0,4.0,produce,fresh vegetables
+901,2115522,10,prior,3,3,19,12.0,44359.0,6.0,0.0,Organic Small Bunch Celery,83.0,4.0,produce,fresh vegetables
+902,2115522,10,prior,3,3,19,12.0,17794.0,7.0,0.0,Carrots,83.0,4.0,produce,fresh vegetables
+903,2115522,10,prior,3,3,19,12.0,19678.0,8.0,0.0,Organic Russet Potato,83.0,4.0,produce,fresh vegetables
+904,2115522,10,prior,3,3,19,12.0,5450.0,9.0,0.0,Small Hass Avocado,24.0,4.0,produce,fresh fruits
+905,2115522,10,prior,3,3,19,12.0,26940.0,10.0,0.0,Organic Large Green Asparagus,83.0,4.0,produce,fresh vegetables
+906,2115522,10,prior,3,3,19,12.0,48775.0,11.0,0.0,Organic Red Cabbage,83.0,4.0,produce,fresh vegetables
+907,2115522,10,prior,3,3,19,12.0,21174.0,12.0,0.0,I Heart Baby Kale,123.0,4.0,produce,packaged vegetables fruits
+908,2115522,10,prior,3,3,19,12.0,18656.0,13.0,0.0,Organic Red Potato,83.0,4.0,produce,fresh vegetables
+909,2115522,10,prior,3,3,19,12.0,30305.0,14.0,0.0,Fancy Eggplant,83.0,4.0,produce,fresh vegetables
+910,2115522,10,prior,3,3,19,12.0,37687.0,15.0,0.0,Organic Spring Mix,123.0,4.0,produce,packaged vegetables fruits
+911,2115522,10,prior,3,3,19,12.0,43352.0,16.0,0.0,Raspberries,32.0,4.0,produce,packaged produce
+912,2115522,10,prior,3,3,19,12.0,26209.0,17.0,0.0,Limes,24.0,4.0,produce,fresh fruits
+913,2115522,10,prior,3,3,19,12.0,47626.0,18.0,0.0,Large Lemon,24.0,4.0,produce,fresh fruits
+914,2115522,10,prior,3,3,19,12.0,16797.0,19.0,1.0,Strawberries,24.0,4.0,produce,fresh fruits
+915,2115522,10,prior,3,3,19,12.0,4920.0,20.0,0.0,Seedless Red Grapes,123.0,4.0,produce,packaged vegetables fruits
+916,2115522,10,prior,3,3,19,12.0,39877.0,21.0,0.0,Organic Granny Smith Apple,24.0,4.0,produce,fresh fruits
+917,2115522,10,prior,3,3,19,12.0,47788.0,22.0,0.0,Honeydew Melon,24.0,4.0,produce,fresh fruits
+918,2115522,10,prior,3,3,19,12.0,34126.0,23.0,0.0,Organic Italian Parsley Bunch,16.0,4.0,produce,fresh herbs
+919,2115522,10,prior,3,3,19,12.0,28842.0,24.0,0.0,Bunched Cilantro,16.0,4.0,produce,fresh herbs
+920,2115522,10,prior,3,3,19,12.0,21833.0,25.0,0.0,Herbs Chives,16.0,4.0,produce,fresh herbs
+921,2115522,10,prior,3,3,19,12.0,42342.0,26.0,0.0,Roasted Turkey Breast,96.0,20.0,deli,lunch meat
+922,2115522,10,prior,3,3,19,12.0,28928.0,27.0,0.0,Uncured Black Forest Ham,96.0,20.0,deli,lunch meat
+923,2115522,10,prior,3,3,19,12.0,28535.0,28.0,1.0,Cucumber & Garlic  Tzatziki,51.0,13.0,pantry,preserved dips spreads
+924,2115522,10,prior,3,3,19,12.0,30489.0,29.0,1.0,Original Hummus,67.0,20.0,deli,fresh dips tapenades
+925,2115522,10,prior,3,3,19,12.0,11068.0,30.0,0.0,Medium Cheddar Cheese Block,21.0,16.0,dairy eggs,packaged cheese
+926,2115522,10,prior,3,3,19,12.0,47526.0,31.0,1.0,Goat Cheese Log,21.0,16.0,dairy eggs,packaged cheese
+927,2115522,10,prior,3,3,19,12.0,42736.0,32.0,0.0,Unsalted Butter,36.0,16.0,dairy eggs,butter
+928,2115522,10,prior,3,3,19,12.0,13083.0,33.0,0.0,Lowfat Small Curd Cottage Cheese,108.0,16.0,dairy eggs,other creams cheeses
+929,83395,10,prior,4,3,15,14.0,30489.0,1.0,1.0,Original Hummus,67.0,20.0,deli,fresh dips tapenades
+930,83395,10,prior,4,3,15,14.0,47591.0,2.0,0.0,Prosciutto di San Daniele,96.0,20.0,deli,lunch meat
+931,83395,10,prior,4,3,15,14.0,24184.0,3.0,0.0,Red Peppers,83.0,4.0,produce,fresh vegetables
+932,83395,10,prior,4,3,15,14.0,260.0,4.0,0.0,Cantaloupe,24.0,4.0,produce,fresh fruits
+933,83395,10,prior,4,3,15,14.0,9339.0,5.0,1.0,Organic Chicken & Apple Sausage,106.0,12.0,meat seafood,hot dogs bacon sausage
+934,83395,10,prior,4,3,15,14.0,38293.0,6.0,0.0,Ground Turkey Breast,35.0,12.0,meat seafood,poultry counter
+935,83395,10,prior,4,3,15,14.0,17828.0,7.0,0.0,Organic Spinach & Feta Dinner Sausage,106.0,12.0,meat seafood,hot dogs bacon sausage
+936,83395,10,prior,4,3,15,14.0,9871.0,8.0,0.0,Beef Loin New York Strip Steak,122.0,12.0,meat seafood,meat counter
+937,83395,10,prior,4,3,15,14.0,46979.0,9.0,1.0,Asparagus,83.0,4.0,produce,fresh vegetables
+938,83395,10,prior,4,3,15,14.0,28535.0,10.0,1.0,Cucumber & Garlic  Tzatziki,51.0,13.0,pantry,preserved dips spreads
+939,83395,10,prior,4,3,15,14.0,47526.0,11.0,1.0,Goat Cheese Log,21.0,16.0,dairy eggs,packaged cheese
+940,83395,10,prior,4,3,15,14.0,19019.0,12.0,0.0,Uncured Slow Cooked Ham,96.0,20.0,deli,lunch meat
+941,83395,10,prior,4,3,15,14.0,23879.0,13.0,0.0,Applewood Smoked Turkey Breast,96.0,20.0,deli,lunch meat
+942,83395,10,prior,4,3,15,14.0,40604.0,14.0,1.0,Feta Cheese Crumbles,21.0,16.0,dairy eggs,packaged cheese
+943,83395,10,prior,4,3,15,14.0,22035.0,15.0,0.0,Organic Whole String Cheese,21.0,16.0,dairy eggs,packaged cheese
+944,83395,10,prior,4,3,15,14.0,36865.0,16.0,0.0,Non Fat Raspberry Yogurt,120.0,16.0,dairy eggs,yogurt
+945,83395,10,prior,4,3,15,14.0,31506.0,17.0,1.0,Extra Virgin Olive Oil,19.0,13.0,pantry,oils vinegars
+946,83395,10,prior,4,3,15,14.0,13829.0,18.0,0.0,Mild Salsa,51.0,13.0,pantry,preserved dips spreads
+947,83395,10,prior,4,3,15,14.0,23541.0,19.0,0.0,Veri Veri Teriyaki Marinade & Sauce,5.0,13.0,pantry,marinades meat preparation
+948,83395,10,prior,4,3,15,14.0,28842.0,20.0,1.0,Bunched Cilantro,16.0,4.0,produce,fresh herbs
+949,83395,10,prior,4,3,15,14.0,42625.0,21.0,0.0,"Flat Parsley, Bunch",16.0,4.0,produce,fresh herbs
+950,83395,10,prior,4,3,15,14.0,1529.0,22.0,1.0,"Parsley, Italian (Flat), New England Grown",16.0,4.0,produce,fresh herbs
+951,83395,10,prior,4,3,15,14.0,20920.0,23.0,0.0,Sage,16.0,4.0,produce,fresh herbs
+952,83395,10,prior,4,3,15,14.0,42647.0,24.0,0.0,Organic Poultry Blend Herbs,16.0,4.0,produce,fresh herbs
+953,83395,10,prior,4,3,15,14.0,25931.0,25.0,1.0,Organic Baby Spinach Salad,123.0,4.0,produce,packaged vegetables fruits
+954,83395,10,prior,4,3,15,14.0,20632.0,26.0,0.0,Mache Rosettes French Salad Mix,123.0,4.0,produce,packaged vegetables fruits
+955,83395,10,prior,4,3,15,14.0,40706.0,27.0,1.0,Organic Grape Tomatoes,123.0,4.0,produce,packaged vegetables fruits
+956,83395,10,prior,4,3,15,14.0,47042.0,28.0,1.0,Organic Red On the Vine Tomato,83.0,4.0,produce,fresh vegetables
+957,83395,10,prior,4,3,15,14.0,16797.0,29.0,1.0,Strawberries,24.0,4.0,produce,fresh fruits
+958,83395,10,prior,4,3,15,14.0,16185.0,30.0,0.0,Sharp Cheddar Cheese,21.0,16.0,dairy eggs,packaged cheese
+959,1353310,10,prior,5,5,20,23.0,30489.0,1.0,1.0,Original Hummus,67.0,20.0,deli,fresh dips tapenades
+960,1353310,10,prior,5,5,20,23.0,47591.0,2.0,1.0,Prosciutto di San Daniele,96.0,20.0,deli,lunch meat
+961,1353310,10,prior,5,5,20,23.0,24184.0,3.0,1.0,Red Peppers,83.0,4.0,produce,fresh vegetables
+962,1353310,10,prior,5,5,20,23.0,260.0,4.0,1.0,Cantaloupe,24.0,4.0,produce,fresh fruits
+963,1353310,10,prior,5,5,20,23.0,9339.0,5.0,1.0,Organic Chicken & Apple Sausage,106.0,12.0,meat seafood,hot dogs bacon sausage
+964,1353310,10,prior,5,5,20,23.0,17828.0,6.0,1.0,Organic Spinach & Feta Dinner Sausage,106.0,12.0,meat seafood,hot dogs bacon sausage
+965,1353310,10,prior,5,5,20,23.0,9871.0,7.0,1.0,Beef Loin New York Strip Steak,122.0,12.0,meat seafood,meat counter
+966,1353310,10,prior,5,5,20,23.0,46979.0,8.0,1.0,Asparagus,83.0,4.0,produce,fresh vegetables
+967,1353310,10,prior,5,5,20,23.0,28535.0,9.0,1.0,Cucumber & Garlic  Tzatziki,51.0,13.0,pantry,preserved dips spreads
+968,1353310,10,prior,5,5,20,23.0,47526.0,10.0,1.0,Goat Cheese Log,21.0,16.0,dairy eggs,packaged cheese
+969,1353310,10,prior,5,5,20,23.0,19019.0,11.0,1.0,Uncured Slow Cooked Ham,96.0,20.0,deli,lunch meat
+970,1353310,10,prior,5,5,20,23.0,23879.0,12.0,1.0,Applewood Smoked Turkey Breast,96.0,20.0,deli,lunch meat
+971,1353310,10,prior,5,5,20,23.0,40604.0,13.0,1.0,Feta Cheese Crumbles,21.0,16.0,dairy eggs,packaged cheese
+972,1353310,10,prior,5,5,20,23.0,22035.0,14.0,1.0,Organic Whole String Cheese,21.0,16.0,dairy eggs,packaged cheese
+973,1353310,10,prior,5,5,20,23.0,36865.0,15.0,1.0,Non Fat Raspberry Yogurt,120.0,16.0,dairy eggs,yogurt
+974,1353310,10,prior,5,5,20,23.0,31506.0,16.0,1.0,Extra Virgin Olive Oil,19.0,13.0,pantry,oils vinegars
+975,1353310,10,prior,5,5,20,23.0,13829.0,17.0,1.0,Mild Salsa,51.0,13.0,pantry,preserved dips spreads
+976,1353310,10,prior,5,5,20,23.0,23541.0,18.0,1.0,Veri Veri Teriyaki Marinade & Sauce,5.0,13.0,pantry,marinades meat preparation
+977,1353310,10,prior,5,5,20,23.0,28842.0,19.0,1.0,Bunched Cilantro,16.0,4.0,produce,fresh herbs
+978,1353310,10,prior,5,5,20,23.0,42625.0,20.0,1.0,"Flat Parsley, Bunch",16.0,4.0,produce,fresh herbs
+979,1353310,10,prior,5,5,20,23.0,1529.0,21.0,1.0,"Parsley, Italian (Flat), New England Grown",16.0,4.0,produce,fresh herbs
+980,1353310,10,prior,5,5,20,23.0,20920.0,22.0,1.0,Sage,16.0,4.0,produce,fresh herbs
+981,1353310,10,prior,5,5,20,23.0,42647.0,23.0,1.0,Organic Poultry Blend Herbs,16.0,4.0,produce,fresh herbs
+982,1353310,10,prior,5,5,20,23.0,25931.0,24.0,1.0,Organic Baby Spinach Salad,123.0,4.0,produce,packaged vegetables fruits
+983,1353310,10,prior,5,5,20,23.0,20632.0,25.0,1.0,Mache Rosettes French Salad Mix,123.0,4.0,produce,packaged vegetables fruits
+984,1353310,10,prior,5,5,20,23.0,40706.0,26.0,1.0,Organic Grape Tomatoes,123.0,4.0,produce,packaged vegetables fruits
+985,1353310,10,prior,5,5,20,23.0,47042.0,27.0,1.0,Organic Red On the Vine Tomato,83.0,4.0,produce,fresh vegetables
+986,1353310,10,prior,5,5,20,23.0,16797.0,28.0,1.0,Strawberries,24.0,4.0,produce,fresh fruits
+987,1353310,10,prior,5,5,20,23.0,16185.0,29.0,1.0,Sharp Cheddar Cheese,21.0,16.0,dairy eggs,packaged cheese
+988,1822501,10,train,6,0,19,30.0,29650.0,1.0,0.0,Pork Chorizo,122.0,12.0,meat seafood,meat counter
+989,1822501,10,train,6,0,19,30.0,48720.0,2.0,0.0,Shoestring Fries,129.0,1.0,frozen,frozen appetizers sides
+990,1822501,10,train,6,0,19,30.0,24654.0,3.0,0.0,Potato Hot Dog Buns,43.0,3.0,bakery,buns rolls
+991,1822501,10,train,6,0,19,30.0,10177.0,4.0,0.0,German Barrel Sauerkraut,110.0,13.0,pantry,pickled goods olives
+992,2411567,11,prior,1,0,11,,47912.0,1.0,0.0,Vanilla Skyr Style Yogurt,120.0,16.0,dairy eggs,yogurt
+993,2411567,11,prior,1,0,11,,8309.0,2.0,0.0,Nonfat Icelandic Style Strawberry Yogurt,120.0,16.0,dairy eggs,yogurt
+994,2411567,11,prior,1,0,11,,28465.0,3.0,0.0,Icelandic Style Skyr Blueberry Non-fat Yogurt,120.0,16.0,dairy eggs,yogurt
+995,2411567,11,prior,1,0,11,,42585.0,4.0,0.0,Organic Extra Firm Tofu,14.0,20.0,deli,tofu meat alternatives
+996,2411567,11,prior,1,0,11,,36070.0,5.0,0.0,"Super Spinach! Baby Spinach, Baby Bok Choy, Sweet Baby Kale",123.0,4.0,produce,packaged vegetables fruits
+997,2411567,11,prior,1,0,11,,2002.0,6.0,0.0,"The \""World's Best\"" Veggie Burger",42.0,1.0,frozen,frozen vegan vegetarian
+998,2411567,11,prior,1,0,11,,16869.0,7.0,0.0,Automatic Dishwasher Tablets Citrus - 25 CT,74.0,17.0,household,dish detergents
+999,2411567,11,prior,1,0,11,,35765.0,8.0,0.0,Slow Cured Pepper + Garlic Salame Molisana,96.0,20.0,deli,lunch meat
+1000,2411567,11,prior,1,0,11,,35738.0,9.0,0.0,Calabrese uncured italian Salami  with pepper and paprika,96.0,20.0,deli,lunch meat
