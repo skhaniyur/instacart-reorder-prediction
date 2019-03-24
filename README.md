@@ -1,2 +1,2 @@
 # shardonnay697
-Repository for USF MSDS 697 Final Project
+University of San Francisco Machine Learning 1 Final Project
